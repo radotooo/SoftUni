@@ -1,0 +1,11 @@
+C:\Users\Radotooo\source\repos\C#Advanced\01.ExercisesStacks and Queues\11.Key Revolver\bin\Debug\netcoreapp2.2\11.Key Revolver.deps.json
+C:\Users\Radotooo\source\repos\C#Advanced\01.ExercisesStacks and Queues\11.Key Revolver\bin\Debug\netcoreapp2.2\11.Key Revolver.runtimeconfig.json
+C:\Users\Radotooo\source\repos\C#Advanced\01.ExercisesStacks and Queues\11.Key Revolver\bin\Debug\netcoreapp2.2\11.Key Revolver.runtimeconfig.dev.json
+C:\Users\Radotooo\source\repos\C#Advanced\01.ExercisesStacks and Queues\11.Key Revolver\bin\Debug\netcoreapp2.2\11.Key Revolver.dll
+C:\Users\Radotooo\source\repos\C#Advanced\01.ExercisesStacks and Queues\11.Key Revolver\bin\Debug\netcoreapp2.2\11.Key Revolver.pdb
+C:\Users\Radotooo\source\repos\C#Advanced\01.ExercisesStacks and Queues\11.Key Revolver\obj\Debug\netcoreapp2.2\11.Key Revolver.csproj.CoreCompileInputs.cache
+C:\Users\Radotooo\source\repos\C#Advanced\01.ExercisesStacks and Queues\11.Key Revolver\obj\Debug\netcoreapp2.2\11.Key Revolver.AssemblyInfoInputs.cache
+C:\Users\Radotooo\source\repos\C#Advanced\01.ExercisesStacks and Queues\11.Key Revolver\obj\Debug\netcoreapp2.2\11.Key Revolver.AssemblyInfo.cs
+C:\Users\Radotooo\source\repos\C#Advanced\01.ExercisesStacks and Queues\11.Key Revolver\obj\Debug\netcoreapp2.2\11.Key Revolver.dll
+C:\Users\Radotooo\source\repos\C#Advanced\01.ExercisesStacks and Queues\11.Key Revolver\obj\Debug\netcoreapp2.2\11.Key Revolver.pdb
+C:\Users\Radotooo\source\repos\C#Advanced\01.ExercisesStacks and Queues\11.Key Revolver\obj\Debug\netcoreapp2.2\11.Key Revolver.csprojAssemblyReference.cache

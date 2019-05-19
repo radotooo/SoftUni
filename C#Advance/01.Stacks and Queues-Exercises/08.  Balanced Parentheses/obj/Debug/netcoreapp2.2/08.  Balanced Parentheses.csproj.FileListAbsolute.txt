@@ -1,0 +1,11 @@
+C:\Users\Radotooo\source\repos\C#Advanced\01.ExercisesStacks and Queues\08.  Balanced Parentheses\bin\Debug\netcoreapp2.2\08.  Balanced Parentheses.deps.json
+C:\Users\Radotooo\source\repos\C#Advanced\01.ExercisesStacks and Queues\08.  Balanced Parentheses\bin\Debug\netcoreapp2.2\08.  Balanced Parentheses.runtimeconfig.json
+C:\Users\Radotooo\source\repos\C#Advanced\01.ExercisesStacks and Queues\08.  Balanced Parentheses\bin\Debug\netcoreapp2.2\08.  Balanced Parentheses.runtimeconfig.dev.json
+C:\Users\Radotooo\source\repos\C#Advanced\01.ExercisesStacks and Queues\08.  Balanced Parentheses\bin\Debug\netcoreapp2.2\08.  Balanced Parentheses.dll
+C:\Users\Radotooo\source\repos\C#Advanced\01.ExercisesStacks and Queues\08.  Balanced Parentheses\bin\Debug\netcoreapp2.2\08.  Balanced Parentheses.pdb
+C:\Users\Radotooo\source\repos\C#Advanced\01.ExercisesStacks and Queues\08.  Balanced Parentheses\obj\Debug\netcoreapp2.2\08.  Balanced Parentheses.csprojAssemblyReference.cache
+C:\Users\Radotooo\source\repos\C#Advanced\01.ExercisesStacks and Queues\08.  Balanced Parentheses\obj\Debug\netcoreapp2.2\08.  Balanced Parentheses.csproj.CoreCompileInputs.cache
+C:\Users\Radotooo\source\repos\C#Advanced\01.ExercisesStacks and Queues\08.  Balanced Parentheses\obj\Debug\netcoreapp2.2\08.  Balanced Parentheses.AssemblyInfoInputs.cache
+C:\Users\Radotooo\source\repos\C#Advanced\01.ExercisesStacks and Queues\08.  Balanced Parentheses\obj\Debug\netcoreapp2.2\08.  Balanced Parentheses.AssemblyInfo.cs
+C:\Users\Radotooo\source\repos\C#Advanced\01.ExercisesStacks and Queues\08.  Balanced Parentheses\obj\Debug\netcoreapp2.2\08.  Balanced Parentheses.dll
+C:\Users\Radotooo\source\repos\C#Advanced\01.ExercisesStacks and Queues\08.  Balanced Parentheses\obj\Debug\netcoreapp2.2\08.  Balanced Parentheses.pdb
