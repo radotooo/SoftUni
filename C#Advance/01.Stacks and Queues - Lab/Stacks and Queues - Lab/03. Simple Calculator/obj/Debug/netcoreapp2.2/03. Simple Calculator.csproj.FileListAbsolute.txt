@@ -1,0 +1,11 @@
+C:\Users\Radotooo\source\repos\C#Advanced\01.Stacks and Queues - Lab\Stacks and Queues - Lab\03. Simple Calculator\bin\Debug\netcoreapp2.2\03. Simple Calculator.deps.json
+C:\Users\Radotooo\source\repos\C#Advanced\01.Stacks and Queues - Lab\Stacks and Queues - Lab\03. Simple Calculator\bin\Debug\netcoreapp2.2\03. Simple Calculator.runtimeconfig.json
+C:\Users\Radotooo\source\repos\C#Advanced\01.Stacks and Queues - Lab\Stacks and Queues - Lab\03. Simple Calculator\bin\Debug\netcoreapp2.2\03. Simple Calculator.runtimeconfig.dev.json
+C:\Users\Radotooo\source\repos\C#Advanced\01.Stacks and Queues - Lab\Stacks and Queues - Lab\03. Simple Calculator\bin\Debug\netcoreapp2.2\03. Simple Calculator.dll
+C:\Users\Radotooo\source\repos\C#Advanced\01.Stacks and Queues - Lab\Stacks and Queues - Lab\03. Simple Calculator\bin\Debug\netcoreapp2.2\03. Simple Calculator.pdb
+C:\Users\Radotooo\source\repos\C#Advanced\01.Stacks and Queues - Lab\Stacks and Queues - Lab\03. Simple Calculator\obj\Debug\netcoreapp2.2\03. Simple Calculator.csprojAssemblyReference.cache
+C:\Users\Radotooo\source\repos\C#Advanced\01.Stacks and Queues - Lab\Stacks and Queues - Lab\03. Simple Calculator\obj\Debug\netcoreapp2.2\03. Simple Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Radotooo\source\repos\C#Advanced\01.Stacks and Queues - Lab\Stacks and Queues - Lab\03. Simple Calculator\obj\Debug\netcoreapp2.2\03. Simple Calculator.AssemblyInfoInputs.cache
+C:\Users\Radotooo\source\repos\C#Advanced\01.Stacks and Queues - Lab\Stacks and Queues - Lab\03. Simple Calculator\obj\Debug\netcoreapp2.2\03. Simple Calculator.AssemblyInfo.cs
+C:\Users\Radotooo\source\repos\C#Advanced\01.Stacks and Queues - Lab\Stacks and Queues - Lab\03. Simple Calculator\obj\Debug\netcoreapp2.2\03. Simple Calculator.dll
+C:\Users\Radotooo\source\repos\C#Advanced\01.Stacks and Queues - Lab\Stacks and Queues - Lab\03. Simple Calculator\obj\Debug\netcoreapp2.2\03. Simple Calculator.pdb

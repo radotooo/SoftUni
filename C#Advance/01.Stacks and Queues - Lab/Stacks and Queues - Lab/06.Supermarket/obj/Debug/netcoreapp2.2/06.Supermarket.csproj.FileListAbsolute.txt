@@ -1,0 +1,10 @@
+C:\Users\Radotooo\source\repos\C#Advanced\01.Stacks and Queues - Lab\Stacks and Queues - Lab\06.Supermarket\bin\Debug\netcoreapp2.2\06.Supermarket.deps.json
+C:\Users\Radotooo\source\repos\C#Advanced\01.Stacks and Queues - Lab\Stacks and Queues - Lab\06.Supermarket\bin\Debug\netcoreapp2.2\06.Supermarket.runtimeconfig.json
+C:\Users\Radotooo\source\repos\C#Advanced\01.Stacks and Queues - Lab\Stacks and Queues - Lab\06.Supermarket\bin\Debug\netcoreapp2.2\06.Supermarket.runtimeconfig.dev.json
+C:\Users\Radotooo\source\repos\C#Advanced\01.Stacks and Queues - Lab\Stacks and Queues - Lab\06.Supermarket\bin\Debug\netcoreapp2.2\06.Supermarket.dll
+C:\Users\Radotooo\source\repos\C#Advanced\01.Stacks and Queues - Lab\Stacks and Queues - Lab\06.Supermarket\bin\Debug\netcoreapp2.2\06.Supermarket.pdb
+C:\Users\Radotooo\source\repos\C#Advanced\01.Stacks and Queues - Lab\Stacks and Queues - Lab\06.Supermarket\obj\Debug\netcoreapp2.2\06.Supermarket.csproj.CoreCompileInputs.cache
+C:\Users\Radotooo\source\repos\C#Advanced\01.Stacks and Queues - Lab\Stacks and Queues - Lab\06.Supermarket\obj\Debug\netcoreapp2.2\06.Supermarket.AssemblyInfoInputs.cache
+C:\Users\Radotooo\source\repos\C#Advanced\01.Stacks and Queues - Lab\Stacks and Queues - Lab\06.Supermarket\obj\Debug\netcoreapp2.2\06.Supermarket.AssemblyInfo.cs
+C:\Users\Radotooo\source\repos\C#Advanced\01.Stacks and Queues - Lab\Stacks and Queues - Lab\06.Supermarket\obj\Debug\netcoreapp2.2\06.Supermarket.dll
+C:\Users\Radotooo\source\repos\C#Advanced\01.Stacks and Queues - Lab\Stacks and Queues - Lab\06.Supermarket\obj\Debug\netcoreapp2.2\06.Supermarket.pdb

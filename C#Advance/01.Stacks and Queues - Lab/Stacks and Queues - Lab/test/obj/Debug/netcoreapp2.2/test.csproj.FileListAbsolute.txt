@@ -1,0 +1,11 @@
+C:\Users\Radotooo\source\repos\C#Advanced\01.Stacks and Queues - Lab\Stacks and Queues - Lab\test\bin\Debug\netcoreapp2.2\test.deps.json
+C:\Users\Radotooo\source\repos\C#Advanced\01.Stacks and Queues - Lab\Stacks and Queues - Lab\test\bin\Debug\netcoreapp2.2\test.runtimeconfig.json
+C:\Users\Radotooo\source\repos\C#Advanced\01.Stacks and Queues - Lab\Stacks and Queues - Lab\test\bin\Debug\netcoreapp2.2\test.runtimeconfig.dev.json
+C:\Users\Radotooo\source\repos\C#Advanced\01.Stacks and Queues - Lab\Stacks and Queues - Lab\test\bin\Debug\netcoreapp2.2\test.dll
+C:\Users\Radotooo\source\repos\C#Advanced\01.Stacks and Queues - Lab\Stacks and Queues - Lab\test\bin\Debug\netcoreapp2.2\test.pdb
+C:\Users\Radotooo\source\repos\C#Advanced\01.Stacks and Queues - Lab\Stacks and Queues - Lab\test\obj\Debug\netcoreapp2.2\test.csproj.CoreCompileInputs.cache
+C:\Users\Radotooo\source\repos\C#Advanced\01.Stacks and Queues - Lab\Stacks and Queues - Lab\test\obj\Debug\netcoreapp2.2\test.AssemblyInfoInputs.cache
+C:\Users\Radotooo\source\repos\C#Advanced\01.Stacks and Queues - Lab\Stacks and Queues - Lab\test\obj\Debug\netcoreapp2.2\test.AssemblyInfo.cs
+C:\Users\Radotooo\source\repos\C#Advanced\01.Stacks and Queues - Lab\Stacks and Queues - Lab\test\obj\Debug\netcoreapp2.2\test.dll
+C:\Users\Radotooo\source\repos\C#Advanced\01.Stacks and Queues - Lab\Stacks and Queues - Lab\test\obj\Debug\netcoreapp2.2\test.pdb
+C:\Users\Radotooo\source\repos\C#Advanced\01.Stacks and Queues - Lab\Stacks and Queues - Lab\test\obj\Debug\netcoreapp2.2\test.csprojAssemblyReference.cache
