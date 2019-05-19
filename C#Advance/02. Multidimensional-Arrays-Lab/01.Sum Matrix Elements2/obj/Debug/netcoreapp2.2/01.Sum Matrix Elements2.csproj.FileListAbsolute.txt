@@ -1,0 +1,11 @@
+C:\Users\Radotooo\source\repos\02. CSharp-Advanced-Multidimensional-Arrays-Lab\01.Sum Matrix Elements2\bin\Debug\netcoreapp2.2\01.Sum Matrix Elements2.deps.json
+C:\Users\Radotooo\source\repos\02. CSharp-Advanced-Multidimensional-Arrays-Lab\01.Sum Matrix Elements2\bin\Debug\netcoreapp2.2\01.Sum Matrix Elements2.runtimeconfig.json
+C:\Users\Radotooo\source\repos\02. CSharp-Advanced-Multidimensional-Arrays-Lab\01.Sum Matrix Elements2\bin\Debug\netcoreapp2.2\01.Sum Matrix Elements2.runtimeconfig.dev.json
+C:\Users\Radotooo\source\repos\02. CSharp-Advanced-Multidimensional-Arrays-Lab\01.Sum Matrix Elements2\bin\Debug\netcoreapp2.2\01.Sum Matrix Elements2.dll
+C:\Users\Radotooo\source\repos\02. CSharp-Advanced-Multidimensional-Arrays-Lab\01.Sum Matrix Elements2\bin\Debug\netcoreapp2.2\01.Sum Matrix Elements2.pdb
+C:\Users\Radotooo\source\repos\02. CSharp-Advanced-Multidimensional-Arrays-Lab\01.Sum Matrix Elements2\obj\Debug\netcoreapp2.2\01.Sum Matrix Elements2.csprojAssemblyReference.cache
+C:\Users\Radotooo\source\repos\02. CSharp-Advanced-Multidimensional-Arrays-Lab\01.Sum Matrix Elements2\obj\Debug\netcoreapp2.2\01.Sum Matrix Elements2.csproj.CoreCompileInputs.cache
+C:\Users\Radotooo\source\repos\02. CSharp-Advanced-Multidimensional-Arrays-Lab\01.Sum Matrix Elements2\obj\Debug\netcoreapp2.2\01.Sum Matrix Elements2.AssemblyInfoInputs.cache
+C:\Users\Radotooo\source\repos\02. CSharp-Advanced-Multidimensional-Arrays-Lab\01.Sum Matrix Elements2\obj\Debug\netcoreapp2.2\01.Sum Matrix Elements2.AssemblyInfo.cs
+C:\Users\Radotooo\source\repos\02. CSharp-Advanced-Multidimensional-Arrays-Lab\01.Sum Matrix Elements2\obj\Debug\netcoreapp2.2\01.Sum Matrix Elements2.dll
+C:\Users\Radotooo\source\repos\02. CSharp-Advanced-Multidimensional-Arrays-Lab\01.Sum Matrix Elements2\obj\Debug\netcoreapp2.2\01.Sum Matrix Elements2.pdb
