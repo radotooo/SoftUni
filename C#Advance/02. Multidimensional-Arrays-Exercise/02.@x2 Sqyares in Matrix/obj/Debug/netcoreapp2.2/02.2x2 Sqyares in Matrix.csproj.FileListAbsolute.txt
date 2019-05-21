@@ -1,0 +1,11 @@
+C:\Users\Radotooo\source\repos\C#Advanced\02. Multidimensional-Arrays-Exercise\02.@x2 Sqyares in Matrix\obj\Debug\netcoreapp2.2\02.2x2 Sqyares in Matrix.csprojAssemblyReference.cache
+C:\Users\Radotooo\source\repos\C#Advanced\02. Multidimensional-Arrays-Exercise\02.@x2 Sqyares in Matrix\obj\Debug\netcoreapp2.2\02.2x2 Sqyares in Matrix.csproj.CoreCompileInputs.cache
+C:\Users\Radotooo\source\repos\C#Advanced\02. Multidimensional-Arrays-Exercise\02.@x2 Sqyares in Matrix\obj\Debug\netcoreapp2.2\02.2x2 Sqyares in Matrix.AssemblyInfoInputs.cache
+C:\Users\Radotooo\source\repos\C#Advanced\02. Multidimensional-Arrays-Exercise\02.@x2 Sqyares in Matrix\obj\Debug\netcoreapp2.2\02.2x2 Sqyares in Matrix.AssemblyInfo.cs
+C:\Users\Radotooo\source\repos\C#Advanced\02. Multidimensional-Arrays-Exercise\02.@x2 Sqyares in Matrix\bin\Debug\netcoreapp2.2\02.2x2 Sqyares in Matrix.deps.json
+C:\Users\Radotooo\source\repos\C#Advanced\02. Multidimensional-Arrays-Exercise\02.@x2 Sqyares in Matrix\bin\Debug\netcoreapp2.2\02.2x2 Sqyares in Matrix.runtimeconfig.json
+C:\Users\Radotooo\source\repos\C#Advanced\02. Multidimensional-Arrays-Exercise\02.@x2 Sqyares in Matrix\bin\Debug\netcoreapp2.2\02.2x2 Sqyares in Matrix.runtimeconfig.dev.json
+C:\Users\Radotooo\source\repos\C#Advanced\02. Multidimensional-Arrays-Exercise\02.@x2 Sqyares in Matrix\bin\Debug\netcoreapp2.2\02.2x2 Sqyares in Matrix.dll
+C:\Users\Radotooo\source\repos\C#Advanced\02. Multidimensional-Arrays-Exercise\02.@x2 Sqyares in Matrix\bin\Debug\netcoreapp2.2\02.2x2 Sqyares in Matrix.pdb
+C:\Users\Radotooo\source\repos\C#Advanced\02. Multidimensional-Arrays-Exercise\02.@x2 Sqyares in Matrix\obj\Debug\netcoreapp2.2\02.2x2 Sqyares in Matrix.dll
+C:\Users\Radotooo\source\repos\C#Advanced\02. Multidimensional-Arrays-Exercise\02.@x2 Sqyares in Matrix\obj\Debug\netcoreapp2.2\02.2x2 Sqyares in Matrix.pdb

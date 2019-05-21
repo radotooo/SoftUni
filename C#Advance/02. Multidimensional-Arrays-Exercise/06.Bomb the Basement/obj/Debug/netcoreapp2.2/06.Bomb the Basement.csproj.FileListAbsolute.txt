@@ -1,0 +1,11 @@
+C:\Users\Radotooo\source\repos\C#Advanced\02. Multidimensional-Arrays-Exercise\06.Bomb the Basement\bin\Debug\netcoreapp2.2\06.Bomb the Basement.deps.json
+C:\Users\Radotooo\source\repos\C#Advanced\02. Multidimensional-Arrays-Exercise\06.Bomb the Basement\bin\Debug\netcoreapp2.2\06.Bomb the Basement.runtimeconfig.json
+C:\Users\Radotooo\source\repos\C#Advanced\02. Multidimensional-Arrays-Exercise\06.Bomb the Basement\bin\Debug\netcoreapp2.2\06.Bomb the Basement.runtimeconfig.dev.json
+C:\Users\Radotooo\source\repos\C#Advanced\02. Multidimensional-Arrays-Exercise\06.Bomb the Basement\bin\Debug\netcoreapp2.2\06.Bomb the Basement.dll
+C:\Users\Radotooo\source\repos\C#Advanced\02. Multidimensional-Arrays-Exercise\06.Bomb the Basement\bin\Debug\netcoreapp2.2\06.Bomb the Basement.pdb
+C:\Users\Radotooo\source\repos\C#Advanced\02. Multidimensional-Arrays-Exercise\06.Bomb the Basement\obj\Debug\netcoreapp2.2\06.Bomb the Basement.csprojAssemblyReference.cache
+C:\Users\Radotooo\source\repos\C#Advanced\02. Multidimensional-Arrays-Exercise\06.Bomb the Basement\obj\Debug\netcoreapp2.2\06.Bomb the Basement.csproj.CoreCompileInputs.cache
+C:\Users\Radotooo\source\repos\C#Advanced\02. Multidimensional-Arrays-Exercise\06.Bomb the Basement\obj\Debug\netcoreapp2.2\06.Bomb the Basement.AssemblyInfoInputs.cache
+C:\Users\Radotooo\source\repos\C#Advanced\02. Multidimensional-Arrays-Exercise\06.Bomb the Basement\obj\Debug\netcoreapp2.2\06.Bomb the Basement.AssemblyInfo.cs
+C:\Users\Radotooo\source\repos\C#Advanced\02. Multidimensional-Arrays-Exercise\06.Bomb the Basement\obj\Debug\netcoreapp2.2\06.Bomb the Basement.dll
+C:\Users\Radotooo\source\repos\C#Advanced\02. Multidimensional-Arrays-Exercise\06.Bomb the Basement\obj\Debug\netcoreapp2.2\06.Bomb the Basement.pdb
