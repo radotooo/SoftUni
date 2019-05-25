@@ -1,0 +1,10 @@
+C:\Users\Radotooo\source\repos\C#Advanced\03. Sets-and-Dictionaries-Advanced-Lab\05.Record Unique Names\bin\Debug\netcoreapp2.2\05.Record Unique Names.deps.json
+C:\Users\Radotooo\source\repos\C#Advanced\03. Sets-and-Dictionaries-Advanced-Lab\05.Record Unique Names\bin\Debug\netcoreapp2.2\05.Record Unique Names.runtimeconfig.json
+C:\Users\Radotooo\source\repos\C#Advanced\03. Sets-and-Dictionaries-Advanced-Lab\05.Record Unique Names\bin\Debug\netcoreapp2.2\05.Record Unique Names.runtimeconfig.dev.json
+C:\Users\Radotooo\source\repos\C#Advanced\03. Sets-and-Dictionaries-Advanced-Lab\05.Record Unique Names\bin\Debug\netcoreapp2.2\05.Record Unique Names.dll
+C:\Users\Radotooo\source\repos\C#Advanced\03. Sets-and-Dictionaries-Advanced-Lab\05.Record Unique Names\bin\Debug\netcoreapp2.2\05.Record Unique Names.pdb
+C:\Users\Radotooo\source\repos\C#Advanced\03. Sets-and-Dictionaries-Advanced-Lab\05.Record Unique Names\obj\Debug\netcoreapp2.2\05.Record Unique Names.csproj.CoreCompileInputs.cache
+C:\Users\Radotooo\source\repos\C#Advanced\03. Sets-and-Dictionaries-Advanced-Lab\05.Record Unique Names\obj\Debug\netcoreapp2.2\05.Record Unique Names.AssemblyInfoInputs.cache
+C:\Users\Radotooo\source\repos\C#Advanced\03. Sets-and-Dictionaries-Advanced-Lab\05.Record Unique Names\obj\Debug\netcoreapp2.2\05.Record Unique Names.AssemblyInfo.cs
+C:\Users\Radotooo\source\repos\C#Advanced\03. Sets-and-Dictionaries-Advanced-Lab\05.Record Unique Names\obj\Debug\netcoreapp2.2\05.Record Unique Names.dll
+C:\Users\Radotooo\source\repos\C#Advanced\03. Sets-and-Dictionaries-Advanced-Lab\05.Record Unique Names\obj\Debug\netcoreapp2.2\05.Record Unique Names.pdb
