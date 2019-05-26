@@ -1,0 +1,11 @@
+C:\Users\Radotooo\source\repos\C#Advanced\03.Sets and Dictionaries Advanced - Exercise\08.Ranking\bin\Debug\netcoreapp2.2\08.Ranking.deps.json
+C:\Users\Radotooo\source\repos\C#Advanced\03.Sets and Dictionaries Advanced - Exercise\08.Ranking\bin\Debug\netcoreapp2.2\08.Ranking.runtimeconfig.json
+C:\Users\Radotooo\source\repos\C#Advanced\03.Sets and Dictionaries Advanced - Exercise\08.Ranking\bin\Debug\netcoreapp2.2\08.Ranking.runtimeconfig.dev.json
+C:\Users\Radotooo\source\repos\C#Advanced\03.Sets and Dictionaries Advanced - Exercise\08.Ranking\bin\Debug\netcoreapp2.2\08.Ranking.dll
+C:\Users\Radotooo\source\repos\C#Advanced\03.Sets and Dictionaries Advanced - Exercise\08.Ranking\bin\Debug\netcoreapp2.2\08.Ranking.pdb
+C:\Users\Radotooo\source\repos\C#Advanced\03.Sets and Dictionaries Advanced - Exercise\08.Ranking\obj\Debug\netcoreapp2.2\08.Ranking.csprojAssemblyReference.cache
+C:\Users\Radotooo\source\repos\C#Advanced\03.Sets and Dictionaries Advanced - Exercise\08.Ranking\obj\Debug\netcoreapp2.2\08.Ranking.csproj.CoreCompileInputs.cache
+C:\Users\Radotooo\source\repos\C#Advanced\03.Sets and Dictionaries Advanced - Exercise\08.Ranking\obj\Debug\netcoreapp2.2\08.Ranking.AssemblyInfoInputs.cache
+C:\Users\Radotooo\source\repos\C#Advanced\03.Sets and Dictionaries Advanced - Exercise\08.Ranking\obj\Debug\netcoreapp2.2\08.Ranking.AssemblyInfo.cs
+C:\Users\Radotooo\source\repos\C#Advanced\03.Sets and Dictionaries Advanced - Exercise\08.Ranking\obj\Debug\netcoreapp2.2\08.Ranking.dll
+C:\Users\Radotooo\source\repos\C#Advanced\03.Sets and Dictionaries Advanced - Exercise\08.Ranking\obj\Debug\netcoreapp2.2\08.Ranking.pdb

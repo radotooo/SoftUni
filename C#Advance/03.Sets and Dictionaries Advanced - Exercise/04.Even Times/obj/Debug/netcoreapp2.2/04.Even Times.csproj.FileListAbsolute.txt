@@ -1,0 +1,10 @@
+C:\Users\Radotooo\source\repos\C#Advanced\03.Sets and Dictionaries Advanced - Exercise\04.Even Times\bin\Debug\netcoreapp2.2\04.Even Times.deps.json
+C:\Users\Radotooo\source\repos\C#Advanced\03.Sets and Dictionaries Advanced - Exercise\04.Even Times\bin\Debug\netcoreapp2.2\04.Even Times.runtimeconfig.json
+C:\Users\Radotooo\source\repos\C#Advanced\03.Sets and Dictionaries Advanced - Exercise\04.Even Times\bin\Debug\netcoreapp2.2\04.Even Times.runtimeconfig.dev.json
+C:\Users\Radotooo\source\repos\C#Advanced\03.Sets and Dictionaries Advanced - Exercise\04.Even Times\bin\Debug\netcoreapp2.2\04.Even Times.dll
+C:\Users\Radotooo\source\repos\C#Advanced\03.Sets and Dictionaries Advanced - Exercise\04.Even Times\bin\Debug\netcoreapp2.2\04.Even Times.pdb
+C:\Users\Radotooo\source\repos\C#Advanced\03.Sets and Dictionaries Advanced - Exercise\04.Even Times\obj\Debug\netcoreapp2.2\04.Even Times.csproj.CoreCompileInputs.cache
+C:\Users\Radotooo\source\repos\C#Advanced\03.Sets and Dictionaries Advanced - Exercise\04.Even Times\obj\Debug\netcoreapp2.2\04.Even Times.AssemblyInfoInputs.cache
+C:\Users\Radotooo\source\repos\C#Advanced\03.Sets and Dictionaries Advanced - Exercise\04.Even Times\obj\Debug\netcoreapp2.2\04.Even Times.AssemblyInfo.cs
+C:\Users\Radotooo\source\repos\C#Advanced\03.Sets and Dictionaries Advanced - Exercise\04.Even Times\obj\Debug\netcoreapp2.2\04.Even Times.dll
+C:\Users\Radotooo\source\repos\C#Advanced\03.Sets and Dictionaries Advanced - Exercise\04.Even Times\obj\Debug\netcoreapp2.2\04.Even Times.pdb
