@@ -1,0 +1,11 @@
+C:\Users\Radotooo\source\repos\C#Advanced\04.Streams-Files-and-Directories-Lab\04.Streams-Files-and-Direc-Lab\01.OddLines\bin\Debug\netcoreapp2.2\01.OddLines.deps.json
+C:\Users\Radotooo\source\repos\C#Advanced\04.Streams-Files-and-Directories-Lab\04.Streams-Files-and-Direc-Lab\01.OddLines\bin\Debug\netcoreapp2.2\01.OddLines.runtimeconfig.json
+C:\Users\Radotooo\source\repos\C#Advanced\04.Streams-Files-and-Directories-Lab\04.Streams-Files-and-Direc-Lab\01.OddLines\bin\Debug\netcoreapp2.2\01.OddLines.runtimeconfig.dev.json
+C:\Users\Radotooo\source\repos\C#Advanced\04.Streams-Files-and-Directories-Lab\04.Streams-Files-and-Direc-Lab\01.OddLines\bin\Debug\netcoreapp2.2\01.OddLines.dll
+C:\Users\Radotooo\source\repos\C#Advanced\04.Streams-Files-and-Directories-Lab\04.Streams-Files-and-Direc-Lab\01.OddLines\bin\Debug\netcoreapp2.2\01.OddLines.pdb
+C:\Users\Radotooo\source\repos\C#Advanced\04.Streams-Files-and-Directories-Lab\04.Streams-Files-and-Direc-Lab\01.OddLines\obj\Debug\netcoreapp2.2\01.OddLines.csprojAssemblyReference.cache
+C:\Users\Radotooo\source\repos\C#Advanced\04.Streams-Files-and-Directories-Lab\04.Streams-Files-and-Direc-Lab\01.OddLines\obj\Debug\netcoreapp2.2\01.OddLines.csproj.CoreCompileInputs.cache
+C:\Users\Radotooo\source\repos\C#Advanced\04.Streams-Files-and-Directories-Lab\04.Streams-Files-and-Direc-Lab\01.OddLines\obj\Debug\netcoreapp2.2\01.OddLines.AssemblyInfoInputs.cache
+C:\Users\Radotooo\source\repos\C#Advanced\04.Streams-Files-and-Directories-Lab\04.Streams-Files-and-Direc-Lab\01.OddLines\obj\Debug\netcoreapp2.2\01.OddLines.AssemblyInfo.cs
+C:\Users\Radotooo\source\repos\C#Advanced\04.Streams-Files-and-Directories-Lab\04.Streams-Files-and-Direc-Lab\01.OddLines\obj\Debug\netcoreapp2.2\01.OddLines.dll
+C:\Users\Radotooo\source\repos\C#Advanced\04.Streams-Files-and-Directories-Lab\04.Streams-Files-and-Direc-Lab\01.OddLines\obj\Debug\netcoreapp2.2\01.OddLines.pdb

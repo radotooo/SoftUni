@@ -1,0 +1,10 @@
+C:\Users\Radotooo\source\repos\C#Advanced\04.Streams-Files-and-Directories-Lab\04.Streams-Files-and-Direc-Lab\04. Merge Files\bin\Debug\netcoreapp2.2\04. Merge Files.deps.json
+C:\Users\Radotooo\source\repos\C#Advanced\04.Streams-Files-and-Directories-Lab\04.Streams-Files-and-Direc-Lab\04. Merge Files\bin\Debug\netcoreapp2.2\04. Merge Files.runtimeconfig.json
+C:\Users\Radotooo\source\repos\C#Advanced\04.Streams-Files-and-Directories-Lab\04.Streams-Files-and-Direc-Lab\04. Merge Files\bin\Debug\netcoreapp2.2\04. Merge Files.runtimeconfig.dev.json
+C:\Users\Radotooo\source\repos\C#Advanced\04.Streams-Files-and-Directories-Lab\04.Streams-Files-and-Direc-Lab\04. Merge Files\bin\Debug\netcoreapp2.2\04. Merge Files.dll
+C:\Users\Radotooo\source\repos\C#Advanced\04.Streams-Files-and-Directories-Lab\04.Streams-Files-and-Direc-Lab\04. Merge Files\bin\Debug\netcoreapp2.2\04. Merge Files.pdb
+C:\Users\Radotooo\source\repos\C#Advanced\04.Streams-Files-and-Directories-Lab\04.Streams-Files-and-Direc-Lab\04. Merge Files\obj\Debug\netcoreapp2.2\04. Merge Files.csproj.CoreCompileInputs.cache
+C:\Users\Radotooo\source\repos\C#Advanced\04.Streams-Files-and-Directories-Lab\04.Streams-Files-and-Direc-Lab\04. Merge Files\obj\Debug\netcoreapp2.2\04. Merge Files.AssemblyInfoInputs.cache
+C:\Users\Radotooo\source\repos\C#Advanced\04.Streams-Files-and-Directories-Lab\04.Streams-Files-and-Direc-Lab\04. Merge Files\obj\Debug\netcoreapp2.2\04. Merge Files.AssemblyInfo.cs
+C:\Users\Radotooo\source\repos\C#Advanced\04.Streams-Files-and-Directories-Lab\04.Streams-Files-and-Direc-Lab\04. Merge Files\obj\Debug\netcoreapp2.2\04. Merge Files.dll
+C:\Users\Radotooo\source\repos\C#Advanced\04.Streams-Files-and-Directories-Lab\04.Streams-Files-and-Direc-Lab\04. Merge Files\obj\Debug\netcoreapp2.2\04. Merge Files.pdb

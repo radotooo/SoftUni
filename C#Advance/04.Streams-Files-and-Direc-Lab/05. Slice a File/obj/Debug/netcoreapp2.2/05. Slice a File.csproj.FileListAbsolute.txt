@@ -1,0 +1,10 @@
+C:\Users\Radotooo\source\repos\C#Advanced\04.Streams-Files-and-Directories-Lab\04.Streams-Files-and-Direc-Lab\05. Slice a File\bin\Debug\netcoreapp2.2\05. Slice a File.deps.json
+C:\Users\Radotooo\source\repos\C#Advanced\04.Streams-Files-and-Directories-Lab\04.Streams-Files-and-Direc-Lab\05. Slice a File\bin\Debug\netcoreapp2.2\05. Slice a File.runtimeconfig.json
+C:\Users\Radotooo\source\repos\C#Advanced\04.Streams-Files-and-Directories-Lab\04.Streams-Files-and-Direc-Lab\05. Slice a File\bin\Debug\netcoreapp2.2\05. Slice a File.runtimeconfig.dev.json
+C:\Users\Radotooo\source\repos\C#Advanced\04.Streams-Files-and-Directories-Lab\04.Streams-Files-and-Direc-Lab\05. Slice a File\bin\Debug\netcoreapp2.2\05. Slice a File.dll
+C:\Users\Radotooo\source\repos\C#Advanced\04.Streams-Files-and-Directories-Lab\04.Streams-Files-and-Direc-Lab\05. Slice a File\bin\Debug\netcoreapp2.2\05. Slice a File.pdb
+C:\Users\Radotooo\source\repos\C#Advanced\04.Streams-Files-and-Directories-Lab\04.Streams-Files-and-Direc-Lab\05. Slice a File\obj\Debug\netcoreapp2.2\05. Slice a File.csproj.CoreCompileInputs.cache
+C:\Users\Radotooo\source\repos\C#Advanced\04.Streams-Files-and-Directories-Lab\04.Streams-Files-and-Direc-Lab\05. Slice a File\obj\Debug\netcoreapp2.2\05. Slice a File.AssemblyInfoInputs.cache
+C:\Users\Radotooo\source\repos\C#Advanced\04.Streams-Files-and-Directories-Lab\04.Streams-Files-and-Direc-Lab\05. Slice a File\obj\Debug\netcoreapp2.2\05. Slice a File.AssemblyInfo.cs
+C:\Users\Radotooo\source\repos\C#Advanced\04.Streams-Files-and-Directories-Lab\04.Streams-Files-and-Direc-Lab\05. Slice a File\obj\Debug\netcoreapp2.2\05. Slice a File.dll
+C:\Users\Radotooo\source\repos\C#Advanced\04.Streams-Files-and-Directories-Lab\04.Streams-Files-and-Direc-Lab\05. Slice a File\obj\Debug\netcoreapp2.2\05. Slice a File.pdb

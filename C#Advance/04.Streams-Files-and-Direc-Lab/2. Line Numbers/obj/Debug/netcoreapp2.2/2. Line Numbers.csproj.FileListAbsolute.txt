@@ -1,0 +1,11 @@
+C:\Users\Radotooo\source\repos\C#Advanced\04.Streams-Files-and-Directories-Lab\04.Streams-Files-and-Direc-Lab\2. Line Numbers\bin\Debug\netcoreapp2.2\2. Line Numbers.deps.json
+C:\Users\Radotooo\source\repos\C#Advanced\04.Streams-Files-and-Directories-Lab\04.Streams-Files-and-Direc-Lab\2. Line Numbers\bin\Debug\netcoreapp2.2\2. Line Numbers.runtimeconfig.json
+C:\Users\Radotooo\source\repos\C#Advanced\04.Streams-Files-and-Directories-Lab\04.Streams-Files-and-Direc-Lab\2. Line Numbers\bin\Debug\netcoreapp2.2\2. Line Numbers.runtimeconfig.dev.json
+C:\Users\Radotooo\source\repos\C#Advanced\04.Streams-Files-and-Directories-Lab\04.Streams-Files-and-Direc-Lab\2. Line Numbers\bin\Debug\netcoreapp2.2\2. Line Numbers.dll
+C:\Users\Radotooo\source\repos\C#Advanced\04.Streams-Files-and-Directories-Lab\04.Streams-Files-and-Direc-Lab\2. Line Numbers\bin\Debug\netcoreapp2.2\2. Line Numbers.pdb
+C:\Users\Radotooo\source\repos\C#Advanced\04.Streams-Files-and-Directories-Lab\04.Streams-Files-and-Direc-Lab\2. Line Numbers\obj\Debug\netcoreapp2.2\2. Line Numbers.csprojAssemblyReference.cache
+C:\Users\Radotooo\source\repos\C#Advanced\04.Streams-Files-and-Directories-Lab\04.Streams-Files-and-Direc-Lab\2. Line Numbers\obj\Debug\netcoreapp2.2\2. Line Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Radotooo\source\repos\C#Advanced\04.Streams-Files-and-Directories-Lab\04.Streams-Files-and-Direc-Lab\2. Line Numbers\obj\Debug\netcoreapp2.2\2. Line Numbers.AssemblyInfoInputs.cache
+C:\Users\Radotooo\source\repos\C#Advanced\04.Streams-Files-and-Directories-Lab\04.Streams-Files-and-Direc-Lab\2. Line Numbers\obj\Debug\netcoreapp2.2\2. Line Numbers.AssemblyInfo.cs
+C:\Users\Radotooo\source\repos\C#Advanced\04.Streams-Files-and-Directories-Lab\04.Streams-Files-and-Direc-Lab\2. Line Numbers\obj\Debug\netcoreapp2.2\2. Line Numbers.dll
+C:\Users\Radotooo\source\repos\C#Advanced\04.Streams-Files-and-Directories-Lab\04.Streams-Files-and-Direc-Lab\2. Line Numbers\obj\Debug\netcoreapp2.2\2. Line Numbers.pdb
