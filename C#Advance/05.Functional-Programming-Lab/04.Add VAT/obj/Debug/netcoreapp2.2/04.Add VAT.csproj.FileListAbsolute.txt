@@ -1,0 +1,10 @@
+C:\Users\Radotooo\source\repos\C#Advanced\05.Functional-Programming-Lab\05.Functional-Programming-Lab\04.Add VAT\bin\Debug\netcoreapp2.2\04.Add VAT.deps.json
+C:\Users\Radotooo\source\repos\C#Advanced\05.Functional-Programming-Lab\05.Functional-Programming-Lab\04.Add VAT\bin\Debug\netcoreapp2.2\04.Add VAT.runtimeconfig.json
+C:\Users\Radotooo\source\repos\C#Advanced\05.Functional-Programming-Lab\05.Functional-Programming-Lab\04.Add VAT\bin\Debug\netcoreapp2.2\04.Add VAT.runtimeconfig.dev.json
+C:\Users\Radotooo\source\repos\C#Advanced\05.Functional-Programming-Lab\05.Functional-Programming-Lab\04.Add VAT\bin\Debug\netcoreapp2.2\04.Add VAT.dll
+C:\Users\Radotooo\source\repos\C#Advanced\05.Functional-Programming-Lab\05.Functional-Programming-Lab\04.Add VAT\bin\Debug\netcoreapp2.2\04.Add VAT.pdb
+C:\Users\Radotooo\source\repos\C#Advanced\05.Functional-Programming-Lab\05.Functional-Programming-Lab\04.Add VAT\obj\Debug\netcoreapp2.2\04.Add VAT.csproj.CoreCompileInputs.cache
+C:\Users\Radotooo\source\repos\C#Advanced\05.Functional-Programming-Lab\05.Functional-Programming-Lab\04.Add VAT\obj\Debug\netcoreapp2.2\04.Add VAT.AssemblyInfoInputs.cache
+C:\Users\Radotooo\source\repos\C#Advanced\05.Functional-Programming-Lab\05.Functional-Programming-Lab\04.Add VAT\obj\Debug\netcoreapp2.2\04.Add VAT.AssemblyInfo.cs
+C:\Users\Radotooo\source\repos\C#Advanced\05.Functional-Programming-Lab\05.Functional-Programming-Lab\04.Add VAT\obj\Debug\netcoreapp2.2\04.Add VAT.dll
+C:\Users\Radotooo\source\repos\C#Advanced\05.Functional-Programming-Lab\05.Functional-Programming-Lab\04.Add VAT\obj\Debug\netcoreapp2.2\04.Add VAT.pdb

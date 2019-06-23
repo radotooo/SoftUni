@@ -1,0 +1,11 @@
+C:\Users\Radotooo\source\repos\C#Advanced\05.Functional-Programming-Lab\05.Functional-Programming-Lab\03.Count Uppercase Words\bin\Debug\netcoreapp2.2\03.Count Uppercase Words.deps.json
+C:\Users\Radotooo\source\repos\C#Advanced\05.Functional-Programming-Lab\05.Functional-Programming-Lab\03.Count Uppercase Words\bin\Debug\netcoreapp2.2\03.Count Uppercase Words.runtimeconfig.json
+C:\Users\Radotooo\source\repos\C#Advanced\05.Functional-Programming-Lab\05.Functional-Programming-Lab\03.Count Uppercase Words\bin\Debug\netcoreapp2.2\03.Count Uppercase Words.runtimeconfig.dev.json
+C:\Users\Radotooo\source\repos\C#Advanced\05.Functional-Programming-Lab\05.Functional-Programming-Lab\03.Count Uppercase Words\bin\Debug\netcoreapp2.2\03.Count Uppercase Words.dll
+C:\Users\Radotooo\source\repos\C#Advanced\05.Functional-Programming-Lab\05.Functional-Programming-Lab\03.Count Uppercase Words\bin\Debug\netcoreapp2.2\03.Count Uppercase Words.pdb
+C:\Users\Radotooo\source\repos\C#Advanced\05.Functional-Programming-Lab\05.Functional-Programming-Lab\03.Count Uppercase Words\obj\Debug\netcoreapp2.2\03.Count Uppercase Words.csprojAssemblyReference.cache
+C:\Users\Radotooo\source\repos\C#Advanced\05.Functional-Programming-Lab\05.Functional-Programming-Lab\03.Count Uppercase Words\obj\Debug\netcoreapp2.2\03.Count Uppercase Words.csproj.CoreCompileInputs.cache
+C:\Users\Radotooo\source\repos\C#Advanced\05.Functional-Programming-Lab\05.Functional-Programming-Lab\03.Count Uppercase Words\obj\Debug\netcoreapp2.2\03.Count Uppercase Words.AssemblyInfoInputs.cache
+C:\Users\Radotooo\source\repos\C#Advanced\05.Functional-Programming-Lab\05.Functional-Programming-Lab\03.Count Uppercase Words\obj\Debug\netcoreapp2.2\03.Count Uppercase Words.AssemblyInfo.cs
+C:\Users\Radotooo\source\repos\C#Advanced\05.Functional-Programming-Lab\05.Functional-Programming-Lab\03.Count Uppercase Words\obj\Debug\netcoreapp2.2\03.Count Uppercase Words.dll
+C:\Users\Radotooo\source\repos\C#Advanced\05.Functional-Programming-Lab\05.Functional-Programming-Lab\03.Count Uppercase Words\obj\Debug\netcoreapp2.2\03.Count Uppercase Words.pdb

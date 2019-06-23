@@ -1,0 +1,11 @@
+C:\Users\Radotooo\source\repos\C#Advanced\05.Functional-Programming-Lab\05.Functional-Programming-Lab\05.Filter by Agr\bin\Debug\netcoreapp2.2\05.Filter by Age.deps.json
+C:\Users\Radotooo\source\repos\C#Advanced\05.Functional-Programming-Lab\05.Functional-Programming-Lab\05.Filter by Agr\bin\Debug\netcoreapp2.2\05.Filter by Age.runtimeconfig.json
+C:\Users\Radotooo\source\repos\C#Advanced\05.Functional-Programming-Lab\05.Functional-Programming-Lab\05.Filter by Agr\bin\Debug\netcoreapp2.2\05.Filter by Age.runtimeconfig.dev.json
+C:\Users\Radotooo\source\repos\C#Advanced\05.Functional-Programming-Lab\05.Functional-Programming-Lab\05.Filter by Agr\bin\Debug\netcoreapp2.2\05.Filter by Age.dll
+C:\Users\Radotooo\source\repos\C#Advanced\05.Functional-Programming-Lab\05.Functional-Programming-Lab\05.Filter by Agr\bin\Debug\netcoreapp2.2\05.Filter by Age.pdb
+C:\Users\Radotooo\source\repos\C#Advanced\05.Functional-Programming-Lab\05.Functional-Programming-Lab\05.Filter by Agr\obj\Debug\netcoreapp2.2\05.Filter by Age.csprojAssemblyReference.cache
+C:\Users\Radotooo\source\repos\C#Advanced\05.Functional-Programming-Lab\05.Functional-Programming-Lab\05.Filter by Agr\obj\Debug\netcoreapp2.2\05.Filter by Age.csproj.CoreCompileInputs.cache
+C:\Users\Radotooo\source\repos\C#Advanced\05.Functional-Programming-Lab\05.Functional-Programming-Lab\05.Filter by Agr\obj\Debug\netcoreapp2.2\05.Filter by Age.AssemblyInfoInputs.cache
+C:\Users\Radotooo\source\repos\C#Advanced\05.Functional-Programming-Lab\05.Functional-Programming-Lab\05.Filter by Agr\obj\Debug\netcoreapp2.2\05.Filter by Age.AssemblyInfo.cs
+C:\Users\Radotooo\source\repos\C#Advanced\05.Functional-Programming-Lab\05.Functional-Programming-Lab\05.Filter by Agr\obj\Debug\netcoreapp2.2\05.Filter by Age.dll
+C:\Users\Radotooo\source\repos\C#Advanced\05.Functional-Programming-Lab\05.Functional-Programming-Lab\05.Filter by Agr\obj\Debug\netcoreapp2.2\05.Filter by Age.pdb
