@@ -1,0 +1,11 @@
+C:\Users\Radotooo\source\repos\C#Advanced\05. Functional-Programming-Exercises\05. Func-Programming-Exercises\10. Predicate Party!\bin\Debug\netcoreapp2.2\10. Predicate Party!.deps.json
+C:\Users\Radotooo\source\repos\C#Advanced\05. Functional-Programming-Exercises\05. Func-Programming-Exercises\10. Predicate Party!\bin\Debug\netcoreapp2.2\10. Predicate Party!.runtimeconfig.json
+C:\Users\Radotooo\source\repos\C#Advanced\05. Functional-Programming-Exercises\05. Func-Programming-Exercises\10. Predicate Party!\bin\Debug\netcoreapp2.2\10. Predicate Party!.runtimeconfig.dev.json
+C:\Users\Radotooo\source\repos\C#Advanced\05. Functional-Programming-Exercises\05. Func-Programming-Exercises\10. Predicate Party!\bin\Debug\netcoreapp2.2\10. Predicate Party!.dll
+C:\Users\Radotooo\source\repos\C#Advanced\05. Functional-Programming-Exercises\05. Func-Programming-Exercises\10. Predicate Party!\bin\Debug\netcoreapp2.2\10. Predicate Party!.pdb
+C:\Users\Radotooo\source\repos\C#Advanced\05. Functional-Programming-Exercises\05. Func-Programming-Exercises\10. Predicate Party!\obj\Debug\netcoreapp2.2\10. Predicate Party!.csproj.CoreCompileInputs.cache
+C:\Users\Radotooo\source\repos\C#Advanced\05. Functional-Programming-Exercises\05. Func-Programming-Exercises\10. Predicate Party!\obj\Debug\netcoreapp2.2\10. Predicate Party!.AssemblyInfoInputs.cache
+C:\Users\Radotooo\source\repos\C#Advanced\05. Functional-Programming-Exercises\05. Func-Programming-Exercises\10. Predicate Party!\obj\Debug\netcoreapp2.2\10. Predicate Party!.AssemblyInfo.cs
+C:\Users\Radotooo\source\repos\C#Advanced\05. Functional-Programming-Exercises\05. Func-Programming-Exercises\10. Predicate Party!\obj\Debug\netcoreapp2.2\10. Predicate Party!.dll
+C:\Users\Radotooo\source\repos\C#Advanced\05. Functional-Programming-Exercises\05. Func-Programming-Exercises\10. Predicate Party!\obj\Debug\netcoreapp2.2\10. Predicate Party!.pdb
+C:\Users\Radotooo\source\repos\C#Advanced\05. Functional-Programming-Exercises\05. Func-Programming-Exercises\10. Predicate Party!\obj\Debug\netcoreapp2.2\10. Predicate Party!.csprojAssemblyReference.cache

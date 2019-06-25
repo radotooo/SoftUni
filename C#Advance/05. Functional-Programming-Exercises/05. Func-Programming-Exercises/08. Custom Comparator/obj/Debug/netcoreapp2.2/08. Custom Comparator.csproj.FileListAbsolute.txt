@@ -1,0 +1,11 @@
+C:\Users\Radotooo\source\repos\C#Advanced\05. Functional-Programming-Exercises\05. Func-Programming-Exercises\08. Custom Comparator\bin\Debug\netcoreapp2.2\08. Custom Comparator.deps.json
+C:\Users\Radotooo\source\repos\C#Advanced\05. Functional-Programming-Exercises\05. Func-Programming-Exercises\08. Custom Comparator\bin\Debug\netcoreapp2.2\08. Custom Comparator.runtimeconfig.json
+C:\Users\Radotooo\source\repos\C#Advanced\05. Functional-Programming-Exercises\05. Func-Programming-Exercises\08. Custom Comparator\bin\Debug\netcoreapp2.2\08. Custom Comparator.runtimeconfig.dev.json
+C:\Users\Radotooo\source\repos\C#Advanced\05. Functional-Programming-Exercises\05. Func-Programming-Exercises\08. Custom Comparator\bin\Debug\netcoreapp2.2\08. Custom Comparator.dll
+C:\Users\Radotooo\source\repos\C#Advanced\05. Functional-Programming-Exercises\05. Func-Programming-Exercises\08. Custom Comparator\bin\Debug\netcoreapp2.2\08. Custom Comparator.pdb
+C:\Users\Radotooo\source\repos\C#Advanced\05. Functional-Programming-Exercises\05. Func-Programming-Exercises\08. Custom Comparator\obj\Debug\netcoreapp2.2\08. Custom Comparator.csproj.CoreCompileInputs.cache
+C:\Users\Radotooo\source\repos\C#Advanced\05. Functional-Programming-Exercises\05. Func-Programming-Exercises\08. Custom Comparator\obj\Debug\netcoreapp2.2\08. Custom Comparator.AssemblyInfoInputs.cache
+C:\Users\Radotooo\source\repos\C#Advanced\05. Functional-Programming-Exercises\05. Func-Programming-Exercises\08. Custom Comparator\obj\Debug\netcoreapp2.2\08. Custom Comparator.AssemblyInfo.cs
+C:\Users\Radotooo\source\repos\C#Advanced\05. Functional-Programming-Exercises\05. Func-Programming-Exercises\08. Custom Comparator\obj\Debug\netcoreapp2.2\08. Custom Comparator.dll
+C:\Users\Radotooo\source\repos\C#Advanced\05. Functional-Programming-Exercises\05. Func-Programming-Exercises\08. Custom Comparator\obj\Debug\netcoreapp2.2\08. Custom Comparator.pdb
+C:\Users\Radotooo\source\repos\C#Advanced\05. Functional-Programming-Exercises\05. Func-Programming-Exercises\08. Custom Comparator\obj\Debug\netcoreapp2.2\08. Custom Comparator.csprojAssemblyReference.cache

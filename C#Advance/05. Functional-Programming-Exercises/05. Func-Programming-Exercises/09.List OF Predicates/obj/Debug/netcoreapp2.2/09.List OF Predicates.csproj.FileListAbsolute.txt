@@ -1,0 +1,11 @@
+C:\Users\Radotooo\source\repos\C#Advanced\05. Functional-Programming-Exercises\05. Func-Programming-Exercises\09.List OF Predicates\bin\Debug\netcoreapp2.2\09.List OF Predicates.deps.json
+C:\Users\Radotooo\source\repos\C#Advanced\05. Functional-Programming-Exercises\05. Func-Programming-Exercises\09.List OF Predicates\bin\Debug\netcoreapp2.2\09.List OF Predicates.runtimeconfig.json
+C:\Users\Radotooo\source\repos\C#Advanced\05. Functional-Programming-Exercises\05. Func-Programming-Exercises\09.List OF Predicates\bin\Debug\netcoreapp2.2\09.List OF Predicates.runtimeconfig.dev.json
+C:\Users\Radotooo\source\repos\C#Advanced\05. Functional-Programming-Exercises\05. Func-Programming-Exercises\09.List OF Predicates\bin\Debug\netcoreapp2.2\09.List OF Predicates.dll
+C:\Users\Radotooo\source\repos\C#Advanced\05. Functional-Programming-Exercises\05. Func-Programming-Exercises\09.List OF Predicates\bin\Debug\netcoreapp2.2\09.List OF Predicates.pdb
+C:\Users\Radotooo\source\repos\C#Advanced\05. Functional-Programming-Exercises\05. Func-Programming-Exercises\09.List OF Predicates\obj\Debug\netcoreapp2.2\09.List OF Predicates.csprojAssemblyReference.cache
+C:\Users\Radotooo\source\repos\C#Advanced\05. Functional-Programming-Exercises\05. Func-Programming-Exercises\09.List OF Predicates\obj\Debug\netcoreapp2.2\09.List OF Predicates.csproj.CoreCompileInputs.cache
+C:\Users\Radotooo\source\repos\C#Advanced\05. Functional-Programming-Exercises\05. Func-Programming-Exercises\09.List OF Predicates\obj\Debug\netcoreapp2.2\09.List OF Predicates.AssemblyInfoInputs.cache
+C:\Users\Radotooo\source\repos\C#Advanced\05. Functional-Programming-Exercises\05. Func-Programming-Exercises\09.List OF Predicates\obj\Debug\netcoreapp2.2\09.List OF Predicates.AssemblyInfo.cs
+C:\Users\Radotooo\source\repos\C#Advanced\05. Functional-Programming-Exercises\05. Func-Programming-Exercises\09.List OF Predicates\obj\Debug\netcoreapp2.2\09.List OF Predicates.dll
+C:\Users\Radotooo\source\repos\C#Advanced\05. Functional-Programming-Exercises\05. Func-Programming-Exercises\09.List OF Predicates\obj\Debug\netcoreapp2.2\09.List OF Predicates.pdb

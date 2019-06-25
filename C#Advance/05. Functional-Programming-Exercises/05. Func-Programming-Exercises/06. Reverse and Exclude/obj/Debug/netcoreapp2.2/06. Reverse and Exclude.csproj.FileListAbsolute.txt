@@ -1,0 +1,11 @@
+C:\Users\Radotooo\source\repos\C#Advanced\05. Functional-Programming-Exercises\05. Func-Programming-Exercises\06. Reverse and Exclude\bin\Debug\netcoreapp2.2\06. Reverse and Exclude.deps.json
+C:\Users\Radotooo\source\repos\C#Advanced\05. Functional-Programming-Exercises\05. Func-Programming-Exercises\06. Reverse and Exclude\bin\Debug\netcoreapp2.2\06. Reverse and Exclude.runtimeconfig.json
+C:\Users\Radotooo\source\repos\C#Advanced\05. Functional-Programming-Exercises\05. Func-Programming-Exercises\06. Reverse and Exclude\bin\Debug\netcoreapp2.2\06. Reverse and Exclude.runtimeconfig.dev.json
+C:\Users\Radotooo\source\repos\C#Advanced\05. Functional-Programming-Exercises\05. Func-Programming-Exercises\06. Reverse and Exclude\bin\Debug\netcoreapp2.2\06. Reverse and Exclude.dll
+C:\Users\Radotooo\source\repos\C#Advanced\05. Functional-Programming-Exercises\05. Func-Programming-Exercises\06. Reverse and Exclude\bin\Debug\netcoreapp2.2\06. Reverse and Exclude.pdb
+C:\Users\Radotooo\source\repos\C#Advanced\05. Functional-Programming-Exercises\05. Func-Programming-Exercises\06. Reverse and Exclude\obj\Debug\netcoreapp2.2\06. Reverse and Exclude.csprojAssemblyReference.cache
+C:\Users\Radotooo\source\repos\C#Advanced\05. Functional-Programming-Exercises\05. Func-Programming-Exercises\06. Reverse and Exclude\obj\Debug\netcoreapp2.2\06. Reverse and Exclude.csproj.CoreCompileInputs.cache
+C:\Users\Radotooo\source\repos\C#Advanced\05. Functional-Programming-Exercises\05. Func-Programming-Exercises\06. Reverse and Exclude\obj\Debug\netcoreapp2.2\06. Reverse and Exclude.AssemblyInfoInputs.cache
+C:\Users\Radotooo\source\repos\C#Advanced\05. Functional-Programming-Exercises\05. Func-Programming-Exercises\06. Reverse and Exclude\obj\Debug\netcoreapp2.2\06. Reverse and Exclude.AssemblyInfo.cs
+C:\Users\Radotooo\source\repos\C#Advanced\05. Functional-Programming-Exercises\05. Func-Programming-Exercises\06. Reverse and Exclude\obj\Debug\netcoreapp2.2\06. Reverse and Exclude.dll
+C:\Users\Radotooo\source\repos\C#Advanced\05. Functional-Programming-Exercises\05. Func-Programming-Exercises\06. Reverse and Exclude\obj\Debug\netcoreapp2.2\06. Reverse and Exclude.pdb

@@ -1,0 +1,10 @@
+C:\Users\Radotooo\source\repos\C#Advanced\05. Functional-Programming-Exercises\05. Func-Programming-Exercises\03.Custom Min Function\bin\Debug\netcoreapp2.2\03.Custom Min Function.deps.json
+C:\Users\Radotooo\source\repos\C#Advanced\05. Functional-Programming-Exercises\05. Func-Programming-Exercises\03.Custom Min Function\bin\Debug\netcoreapp2.2\03.Custom Min Function.runtimeconfig.json
+C:\Users\Radotooo\source\repos\C#Advanced\05. Functional-Programming-Exercises\05. Func-Programming-Exercises\03.Custom Min Function\bin\Debug\netcoreapp2.2\03.Custom Min Function.runtimeconfig.dev.json
+C:\Users\Radotooo\source\repos\C#Advanced\05. Functional-Programming-Exercises\05. Func-Programming-Exercises\03.Custom Min Function\bin\Debug\netcoreapp2.2\03.Custom Min Function.dll
+C:\Users\Radotooo\source\repos\C#Advanced\05. Functional-Programming-Exercises\05. Func-Programming-Exercises\03.Custom Min Function\bin\Debug\netcoreapp2.2\03.Custom Min Function.pdb
+C:\Users\Radotooo\source\repos\C#Advanced\05. Functional-Programming-Exercises\05. Func-Programming-Exercises\03.Custom Min Function\obj\Debug\netcoreapp2.2\03.Custom Min Function.csproj.CoreCompileInputs.cache
+C:\Users\Radotooo\source\repos\C#Advanced\05. Functional-Programming-Exercises\05. Func-Programming-Exercises\03.Custom Min Function\obj\Debug\netcoreapp2.2\03.Custom Min Function.AssemblyInfoInputs.cache
+C:\Users\Radotooo\source\repos\C#Advanced\05. Functional-Programming-Exercises\05. Func-Programming-Exercises\03.Custom Min Function\obj\Debug\netcoreapp2.2\03.Custom Min Function.AssemblyInfo.cs
+C:\Users\Radotooo\source\repos\C#Advanced\05. Functional-Programming-Exercises\05. Func-Programming-Exercises\03.Custom Min Function\obj\Debug\netcoreapp2.2\03.Custom Min Function.dll
+C:\Users\Radotooo\source\repos\C#Advanced\05. Functional-Programming-Exercises\05. Func-Programming-Exercises\03.Custom Min Function\obj\Debug\netcoreapp2.2\03.Custom Min Function.pdb

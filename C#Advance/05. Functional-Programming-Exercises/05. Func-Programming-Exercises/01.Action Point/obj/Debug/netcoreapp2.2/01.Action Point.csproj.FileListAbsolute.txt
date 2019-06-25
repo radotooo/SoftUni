@@ -1,0 +1,11 @@
+C:\Users\Radotooo\source\repos\C#Advanced\05. Functional-Programming-Exercises\05. Func-Programming-Exercises\01.Action Point\bin\Debug\netcoreapp2.2\01.Action Point.deps.json
+C:\Users\Radotooo\source\repos\C#Advanced\05. Functional-Programming-Exercises\05. Func-Programming-Exercises\01.Action Point\bin\Debug\netcoreapp2.2\01.Action Point.runtimeconfig.json
+C:\Users\Radotooo\source\repos\C#Advanced\05. Functional-Programming-Exercises\05. Func-Programming-Exercises\01.Action Point\bin\Debug\netcoreapp2.2\01.Action Point.runtimeconfig.dev.json
+C:\Users\Radotooo\source\repos\C#Advanced\05. Functional-Programming-Exercises\05. Func-Programming-Exercises\01.Action Point\bin\Debug\netcoreapp2.2\01.Action Point.dll
+C:\Users\Radotooo\source\repos\C#Advanced\05. Functional-Programming-Exercises\05. Func-Programming-Exercises\01.Action Point\bin\Debug\netcoreapp2.2\01.Action Point.pdb
+C:\Users\Radotooo\source\repos\C#Advanced\05. Functional-Programming-Exercises\05. Func-Programming-Exercises\01.Action Point\obj\Debug\netcoreapp2.2\01.Action Point.csprojAssemblyReference.cache
+C:\Users\Radotooo\source\repos\C#Advanced\05. Functional-Programming-Exercises\05. Func-Programming-Exercises\01.Action Point\obj\Debug\netcoreapp2.2\01.Action Point.csproj.CoreCompileInputs.cache
+C:\Users\Radotooo\source\repos\C#Advanced\05. Functional-Programming-Exercises\05. Func-Programming-Exercises\01.Action Point\obj\Debug\netcoreapp2.2\01.Action Point.AssemblyInfoInputs.cache
+C:\Users\Radotooo\source\repos\C#Advanced\05. Functional-Programming-Exercises\05. Func-Programming-Exercises\01.Action Point\obj\Debug\netcoreapp2.2\01.Action Point.AssemblyInfo.cs
+C:\Users\Radotooo\source\repos\C#Advanced\05. Functional-Programming-Exercises\05. Func-Programming-Exercises\01.Action Point\obj\Debug\netcoreapp2.2\01.Action Point.dll
+C:\Users\Radotooo\source\repos\C#Advanced\05. Functional-Programming-Exercises\05. Func-Programming-Exercises\01.Action Point\obj\Debug\netcoreapp2.2\01.Action Point.pdb
