@@ -1,0 +1,4 @@
+C:\Users\Radotooo\source\repos\C#Advanced\06. CSharp-Advanced-Defining-Classes-Lab\06.Defining-Classes-Lab\ConsoleApp1\obj\Debug\netcoreapp2.1\3232323.csprojAssemblyReference.cache
+C:\Users\Radotooo\source\repos\C#Advanced\06. CSharp-Advanced-Defining-Classes-Lab\06.Defining-Classes-Lab\ConsoleApp1\obj\Debug\netcoreapp2.1\3232323.csproj.CoreCompileInputs.cache
+C:\Users\Radotooo\source\repos\C#Advanced\06. CSharp-Advanced-Defining-Classes-Lab\06.Defining-Classes-Lab\ConsoleApp1\obj\Debug\netcoreapp2.1\3232323.AssemblyInfoInputs.cache
+C:\Users\Radotooo\source\repos\C#Advanced\06. CSharp-Advanced-Defining-Classes-Lab\06.Defining-Classes-Lab\ConsoleApp1\obj\Debug\netcoreapp2.1\3232323.AssemblyInfo.cs

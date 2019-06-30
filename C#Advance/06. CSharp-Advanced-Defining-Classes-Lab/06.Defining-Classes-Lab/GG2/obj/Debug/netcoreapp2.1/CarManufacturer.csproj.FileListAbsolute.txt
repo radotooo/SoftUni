@@ -1,0 +1,11 @@
+C:\Users\Radotooo\source\repos\C#Advanced\06. CSharp-Advanced-Defining-Classes-Lab\06.Defining-Classes-Lab\GG2\bin\Debug\netcoreapp2.1\CarManufacturer.deps.json
+C:\Users\Radotooo\source\repos\C#Advanced\06. CSharp-Advanced-Defining-Classes-Lab\06.Defining-Classes-Lab\GG2\bin\Debug\netcoreapp2.1\CarManufacturer.runtimeconfig.json
+C:\Users\Radotooo\source\repos\C#Advanced\06. CSharp-Advanced-Defining-Classes-Lab\06.Defining-Classes-Lab\GG2\bin\Debug\netcoreapp2.1\CarManufacturer.runtimeconfig.dev.json
+C:\Users\Radotooo\source\repos\C#Advanced\06. CSharp-Advanced-Defining-Classes-Lab\06.Defining-Classes-Lab\GG2\bin\Debug\netcoreapp2.1\CarManufacturer.dll
+C:\Users\Radotooo\source\repos\C#Advanced\06. CSharp-Advanced-Defining-Classes-Lab\06.Defining-Classes-Lab\GG2\bin\Debug\netcoreapp2.1\CarManufacturer.pdb
+C:\Users\Radotooo\source\repos\C#Advanced\06. CSharp-Advanced-Defining-Classes-Lab\06.Defining-Classes-Lab\GG2\obj\Debug\netcoreapp2.1\CarManufacturer.csprojAssemblyReference.cache
+C:\Users\Radotooo\source\repos\C#Advanced\06. CSharp-Advanced-Defining-Classes-Lab\06.Defining-Classes-Lab\GG2\obj\Debug\netcoreapp2.1\CarManufacturer.csproj.CoreCompileInputs.cache
+C:\Users\Radotooo\source\repos\C#Advanced\06. CSharp-Advanced-Defining-Classes-Lab\06.Defining-Classes-Lab\GG2\obj\Debug\netcoreapp2.1\CarManufacturer.AssemblyInfoInputs.cache
+C:\Users\Radotooo\source\repos\C#Advanced\06. CSharp-Advanced-Defining-Classes-Lab\06.Defining-Classes-Lab\GG2\obj\Debug\netcoreapp2.1\CarManufacturer.AssemblyInfo.cs
+C:\Users\Radotooo\source\repos\C#Advanced\06. CSharp-Advanced-Defining-Classes-Lab\06.Defining-Classes-Lab\GG2\obj\Debug\netcoreapp2.1\CarManufacturer.dll
+C:\Users\Radotooo\source\repos\C#Advanced\06. CSharp-Advanced-Defining-Classes-Lab\06.Defining-Classes-Lab\GG2\obj\Debug\netcoreapp2.1\CarManufacturer.pdb

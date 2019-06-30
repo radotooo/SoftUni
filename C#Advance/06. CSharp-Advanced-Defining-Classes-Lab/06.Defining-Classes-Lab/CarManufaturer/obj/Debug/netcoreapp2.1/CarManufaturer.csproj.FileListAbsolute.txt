@@ -1,0 +1,11 @@
+C:\Users\Radotooo\source\repos\C#Advanced\06. CSharp-Advanced-Defining-Classes-Lab\06.Defining-Classes-Lab\CarManufaturer\obj\Debug\netcoreapp2.1\CarManufaturer.csproj.CoreCompileInputs.cache
+C:\Users\Radotooo\source\repos\C#Advanced\06. CSharp-Advanced-Defining-Classes-Lab\06.Defining-Classes-Lab\CarManufaturer\obj\Debug\netcoreapp2.1\CarManufaturer.AssemblyInfoInputs.cache
+C:\Users\Radotooo\source\repos\C#Advanced\06. CSharp-Advanced-Defining-Classes-Lab\06.Defining-Classes-Lab\CarManufaturer\obj\Debug\netcoreapp2.1\CarManufaturer.AssemblyInfo.cs
+C:\Users\Radotooo\source\repos\C#Advanced\06. CSharp-Advanced-Defining-Classes-Lab\06.Defining-Classes-Lab\CarManufaturer\bin\Debug\netcoreapp2.1\CarManufaturer.deps.json
+C:\Users\Radotooo\source\repos\C#Advanced\06. CSharp-Advanced-Defining-Classes-Lab\06.Defining-Classes-Lab\CarManufaturer\bin\Debug\netcoreapp2.1\CarManufaturer.runtimeconfig.json
+C:\Users\Radotooo\source\repos\C#Advanced\06. CSharp-Advanced-Defining-Classes-Lab\06.Defining-Classes-Lab\CarManufaturer\bin\Debug\netcoreapp2.1\CarManufaturer.runtimeconfig.dev.json
+C:\Users\Radotooo\source\repos\C#Advanced\06. CSharp-Advanced-Defining-Classes-Lab\06.Defining-Classes-Lab\CarManufaturer\bin\Debug\netcoreapp2.1\CarManufaturer.dll
+C:\Users\Radotooo\source\repos\C#Advanced\06. CSharp-Advanced-Defining-Classes-Lab\06.Defining-Classes-Lab\CarManufaturer\bin\Debug\netcoreapp2.1\CarManufaturer.pdb
+C:\Users\Radotooo\source\repos\C#Advanced\06. CSharp-Advanced-Defining-Classes-Lab\06.Defining-Classes-Lab\CarManufaturer\obj\Debug\netcoreapp2.1\CarManufaturer.dll
+C:\Users\Radotooo\source\repos\C#Advanced\06. CSharp-Advanced-Defining-Classes-Lab\06.Defining-Classes-Lab\CarManufaturer\obj\Debug\netcoreapp2.1\CarManufaturer.pdb
+C:\Users\Radotooo\source\repos\C#Advanced\06. CSharp-Advanced-Defining-Classes-Lab\06.Defining-Classes-Lab\CarManufaturer\obj\Debug\netcoreapp2.1\CarManufaturer.csprojAssemblyReference.cache
