@@ -1,0 +1,11 @@
+C:\Users\Radotooo\source\repos\C#Advanced\06. CSharp-Advanced-Defining-Classes-Exercises\06.Defining-Classes-Exercises\01. Define a Class Person\bin\Debug\netcoreapp2.0\01. Define a Class Person.deps.json
+C:\Users\Radotooo\source\repos\C#Advanced\06. CSharp-Advanced-Defining-Classes-Exercises\06.Defining-Classes-Exercises\01. Define a Class Person\bin\Debug\netcoreapp2.0\01. Define a Class Person.runtimeconfig.json
+C:\Users\Radotooo\source\repos\C#Advanced\06. CSharp-Advanced-Defining-Classes-Exercises\06.Defining-Classes-Exercises\01. Define a Class Person\bin\Debug\netcoreapp2.0\01. Define a Class Person.runtimeconfig.dev.json
+C:\Users\Radotooo\source\repos\C#Advanced\06. CSharp-Advanced-Defining-Classes-Exercises\06.Defining-Classes-Exercises\01. Define a Class Person\bin\Debug\netcoreapp2.0\01. Define a Class Person.dll
+C:\Users\Radotooo\source\repos\C#Advanced\06. CSharp-Advanced-Defining-Classes-Exercises\06.Defining-Classes-Exercises\01. Define a Class Person\bin\Debug\netcoreapp2.0\01. Define a Class Person.pdb
+C:\Users\Radotooo\source\repos\C#Advanced\06. CSharp-Advanced-Defining-Classes-Exercises\06.Defining-Classes-Exercises\01. Define a Class Person\obj\Debug\netcoreapp2.0\01. Define a Class Person.csproj.CoreCompileInputs.cache
+C:\Users\Radotooo\source\repos\C#Advanced\06. CSharp-Advanced-Defining-Classes-Exercises\06.Defining-Classes-Exercises\01. Define a Class Person\obj\Debug\netcoreapp2.0\01. Define a Class Person.AssemblyInfoInputs.cache
+C:\Users\Radotooo\source\repos\C#Advanced\06. CSharp-Advanced-Defining-Classes-Exercises\06.Defining-Classes-Exercises\01. Define a Class Person\obj\Debug\netcoreapp2.0\01. Define a Class Person.AssemblyInfo.cs
+C:\Users\Radotooo\source\repos\C#Advanced\06. CSharp-Advanced-Defining-Classes-Exercises\06.Defining-Classes-Exercises\01. Define a Class Person\obj\Debug\netcoreapp2.0\01. Define a Class Person.dll
+C:\Users\Radotooo\source\repos\C#Advanced\06. CSharp-Advanced-Defining-Classes-Exercises\06.Defining-Classes-Exercises\01. Define a Class Person\obj\Debug\netcoreapp2.0\01. Define a Class Person.pdb
+C:\Users\Radotooo\source\repos\C#Advanced\06. CSharp-Advanced-Defining-Classes-Exercises\06.Defining-Classes-Exercises\01. Define a Class Person\obj\Debug\netcoreapp2.0\01. Define a Class Person.csprojAssemblyReference.cache
