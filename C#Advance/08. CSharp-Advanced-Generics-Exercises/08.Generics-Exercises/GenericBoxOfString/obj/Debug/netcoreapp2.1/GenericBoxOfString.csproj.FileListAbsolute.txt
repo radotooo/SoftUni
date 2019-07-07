@@ -1,0 +1,10 @@
+C:\Users\Radotooo\source\repos\C#Advanced\08. CSharp-Advanced-Generics-Exercises\08.Generics-Exercises\GenericBoxOfString\bin\Debug\netcoreapp2.1\GenericBoxOfString.deps.json
+C:\Users\Radotooo\source\repos\C#Advanced\08. CSharp-Advanced-Generics-Exercises\08.Generics-Exercises\GenericBoxOfString\bin\Debug\netcoreapp2.1\GenericBoxOfString.runtimeconfig.json
+C:\Users\Radotooo\source\repos\C#Advanced\08. CSharp-Advanced-Generics-Exercises\08.Generics-Exercises\GenericBoxOfString\bin\Debug\netcoreapp2.1\GenericBoxOfString.runtimeconfig.dev.json
+C:\Users\Radotooo\source\repos\C#Advanced\08. CSharp-Advanced-Generics-Exercises\08.Generics-Exercises\GenericBoxOfString\bin\Debug\netcoreapp2.1\GenericBoxOfString.dll
+C:\Users\Radotooo\source\repos\C#Advanced\08. CSharp-Advanced-Generics-Exercises\08.Generics-Exercises\GenericBoxOfString\bin\Debug\netcoreapp2.1\GenericBoxOfString.pdb
+C:\Users\Radotooo\source\repos\C#Advanced\08. CSharp-Advanced-Generics-Exercises\08.Generics-Exercises\GenericBoxOfString\obj\Debug\netcoreapp2.1\GenericBoxOfString.csproj.CoreCompileInputs.cache
+C:\Users\Radotooo\source\repos\C#Advanced\08. CSharp-Advanced-Generics-Exercises\08.Generics-Exercises\GenericBoxOfString\obj\Debug\netcoreapp2.1\GenericBoxOfString.AssemblyInfoInputs.cache
+C:\Users\Radotooo\source\repos\C#Advanced\08. CSharp-Advanced-Generics-Exercises\08.Generics-Exercises\GenericBoxOfString\obj\Debug\netcoreapp2.1\GenericBoxOfString.AssemblyInfo.cs
+C:\Users\Radotooo\source\repos\C#Advanced\08. CSharp-Advanced-Generics-Exercises\08.Generics-Exercises\GenericBoxOfString\obj\Debug\netcoreapp2.1\GenericBoxOfString.dll
+C:\Users\Radotooo\source\repos\C#Advanced\08. CSharp-Advanced-Generics-Exercises\08.Generics-Exercises\GenericBoxOfString\obj\Debug\netcoreapp2.1\GenericBoxOfString.pdb
