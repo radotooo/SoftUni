@@ -1,0 +1,17 @@
+C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\FightingArena.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\FightingArena.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\FightingArena.Tests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\FightingArena.Tests\bin\Debug\netcoreapp2.1\FightingArena.Tests.deps.json
+C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\FightingArena.Tests\bin\Debug\netcoreapp2.1\FightingArena.Tests.runtimeconfig.json
+C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\FightingArena.Tests\bin\Debug\netcoreapp2.1\FightingArena.Tests.runtimeconfig.dev.json
+C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\FightingArena.Tests\bin\Debug\netcoreapp2.1\FightingArena.Tests.dll
+C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\FightingArena.Tests\bin\Debug\netcoreapp2.1\FightingArena.Tests.pdb
+C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\FightingArena.Tests\bin\Debug\netcoreapp2.1\FightingArena.dll
+C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\FightingArena.Tests\bin\Debug\netcoreapp2.1\FightingArena.pdb
+C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\FightingArena.Tests\obj\Debug\netcoreapp2.1\FightingArena.Tests.csprojAssemblyReference.cache
+C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\FightingArena.Tests\obj\Debug\netcoreapp2.1\FightingArena.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\FightingArena.Tests\obj\Debug\netcoreapp2.1\FightingArena.Tests.AssemblyInfoInputs.cache
+C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\FightingArena.Tests\obj\Debug\netcoreapp2.1\FightingArena.Tests.AssemblyInfo.cs
+C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\FightingArena.Tests\obj\Debug\netcoreapp2.1\FightingArena.Tests.csproj.CopyComplete
+C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\FightingArena.Tests\obj\Debug\netcoreapp2.1\FightingArena.Tests.dll
+C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\FightingArena.Tests\obj\Debug\netcoreapp2.1\FightingArena.Tests.pdb

@@ -1,0 +1,17 @@
+C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\CarManager.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\CarManager.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\CarManager.Tests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\CarManager.Tests\bin\Debug\netcoreapp2.1\CarManager.Tests.deps.json
+C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\CarManager.Tests\bin\Debug\netcoreapp2.1\CarManager.Tests.runtimeconfig.json
+C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\CarManager.Tests\bin\Debug\netcoreapp2.1\CarManager.Tests.runtimeconfig.dev.json
+C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\CarManager.Tests\bin\Debug\netcoreapp2.1\CarManager.Tests.dll
+C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\CarManager.Tests\bin\Debug\netcoreapp2.1\CarManager.Tests.pdb
+C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\CarManager.Tests\bin\Debug\netcoreapp2.1\CarManager.dll
+C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\CarManager.Tests\bin\Debug\netcoreapp2.1\CarManager.pdb
+C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\CarManager.Tests\obj\Debug\netcoreapp2.1\CarManager.Tests.csprojAssemblyReference.cache
+C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\CarManager.Tests\obj\Debug\netcoreapp2.1\CarManager.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\CarManager.Tests\obj\Debug\netcoreapp2.1\CarManager.Tests.AssemblyInfoInputs.cache
+C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\CarManager.Tests\obj\Debug\netcoreapp2.1\CarManager.Tests.AssemblyInfo.cs
+C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\CarManager.Tests\obj\Debug\netcoreapp2.1\CarManager.Tests.csproj.CopyComplete
+C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\CarManager.Tests\obj\Debug\netcoreapp2.1\CarManager.Tests.dll
+C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\CarManager.Tests\obj\Debug\netcoreapp2.1\CarManager.Tests.pdb

@@ -1,0 +1,17 @@
+C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\Database.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\Database.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\Database.Tests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\Database.Tests\bin\Debug\netcoreapp2.1\Database.Tests.deps.json
+C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\Database.Tests\bin\Debug\netcoreapp2.1\Database.Tests.runtimeconfig.json
+C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\Database.Tests\bin\Debug\netcoreapp2.1\Database.Tests.runtimeconfig.dev.json
+C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\Database.Tests\bin\Debug\netcoreapp2.1\Database.Tests.dll
+C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\Database.Tests\bin\Debug\netcoreapp2.1\Database.Tests.pdb
+C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\Database.Tests\bin\Debug\netcoreapp2.1\Database.dll
+C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\Database.Tests\bin\Debug\netcoreapp2.1\Database.pdb
+C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\Database.Tests\obj\Debug\netcoreapp2.1\Database.Tests.csprojAssemblyReference.cache
+C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\Database.Tests\obj\Debug\netcoreapp2.1\Database.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\Database.Tests\obj\Debug\netcoreapp2.1\Database.Tests.AssemblyInfoInputs.cache
+C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\Database.Tests\obj\Debug\netcoreapp2.1\Database.Tests.AssemblyInfo.cs
+C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\Database.Tests\obj\Debug\netcoreapp2.1\Database.Tests.csproj.CopyComplete
+C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\Database.Tests\obj\Debug\netcoreapp2.1\Database.Tests.dll
+C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\Database.Tests\obj\Debug\netcoreapp2.1\Database.Tests.pdb
