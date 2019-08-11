@@ -4,8 +4,8 @@
 
 <p>The course covers:</p>
 <ul>
-<li><a href="https://github.com/radotooo/SoftUni/tree/master/C%23OOP/01.%20Database_Skeleton">Working with Abstraction</a></li>
-<li>Inheritance</li>
+<li><a href="https://github.com/radotooo/SoftUni/tree/master/C%23OOP/01.%20CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources">Working with Abstraction</a></li>
+<li><a href="https://github.com/radotooo/SoftUni/tree/master/C%23OOP/02.%20CSharp-OOP-Inheritance-Skeleton">Inheritance</a></li>
 <li>Encapsulation</li>
 <li>Interfaces and Abstraction</li>
 <li>Reflection;</li>
