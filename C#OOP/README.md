@@ -3,7 +3,7 @@
 
 <p>The course covers:</p>
 <ul>
-<li>Working with Abstraction</li>
+<li><a href="https://github.com/radotooo/SoftUni/tree/master/C%23OOP/01.%20Database_Skeleton">Working with Abstraction</a></li>
 <li>Inheritance</li>
 <li>Encapsulation</li>
 <li>Interfaces and Abstraction</li>
