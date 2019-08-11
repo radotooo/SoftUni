@@ -1,5 +1,6 @@
 
-<img width="500" height="134" border="0" alt="Premium WordPress Themes - AppThemes" src="https://raw.githubusercontent.com/radotooo/SoftUni/master/C%23Advance/LogoSoftUni.png"></img>
+<a href="https://softuni.bg/"><img width="480" height="120" border="0" alt="Premium WordPress Themes - AppThemes" src="https://raw.githubusercontent.com/radotooo/SoftUni/master/C%23Advance/SoftUniLogo.png"></img></a>
+
 
 <p>The course covers:</p>
 <ul>
