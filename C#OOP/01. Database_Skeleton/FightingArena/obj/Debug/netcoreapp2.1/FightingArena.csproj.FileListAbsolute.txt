@@ -1,9 +1,0 @@
-C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\FightingArena\bin\Debug\netcoreapp2.1\FightingArena.deps.json
-C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\FightingArena\bin\Debug\netcoreapp2.1\FightingArena.dll
-C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\FightingArena\bin\Debug\netcoreapp2.1\FightingArena.pdb
-C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\FightingArena\obj\Debug\netcoreapp2.1\FightingArena.csprojAssemblyReference.cache
-C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\FightingArena\obj\Debug\netcoreapp2.1\FightingArena.csproj.CoreCompileInputs.cache
-C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\FightingArena\obj\Debug\netcoreapp2.1\FightingArena.AssemblyInfoInputs.cache
-C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\FightingArena\obj\Debug\netcoreapp2.1\FightingArena.AssemblyInfo.cs
-C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\FightingArena\obj\Debug\netcoreapp2.1\FightingArena.dll
-C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\FightingArena\obj\Debug\netcoreapp2.1\FightingArena.pdb

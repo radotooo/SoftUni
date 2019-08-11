@@ -1,9 +1,0 @@
-C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\CarManager\bin\Debug\netcoreapp2.1\CarManager.deps.json
-C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\CarManager\bin\Debug\netcoreapp2.1\CarManager.dll
-C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\CarManager\bin\Debug\netcoreapp2.1\CarManager.pdb
-C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\CarManager\obj\Debug\netcoreapp2.1\CarManager.csprojAssemblyReference.cache
-C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\CarManager\obj\Debug\netcoreapp2.1\CarManager.csproj.CoreCompileInputs.cache
-C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\CarManager\obj\Debug\netcoreapp2.1\CarManager.AssemblyInfoInputs.cache
-C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\CarManager\obj\Debug\netcoreapp2.1\CarManager.AssemblyInfo.cs
-C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\CarManager\obj\Debug\netcoreapp2.1\CarManager.dll
-C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\CarManager\obj\Debug\netcoreapp2.1\CarManager.pdb

@@ -1,9 +1,0 @@
-C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\DatabaseExtended\bin\Debug\netcoreapp2.1\DatabaseExtended.deps.json
-C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\DatabaseExtended\bin\Debug\netcoreapp2.1\DatabaseExtended.dll
-C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\DatabaseExtended\bin\Debug\netcoreapp2.1\DatabaseExtended.pdb
-C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.csprojAssemblyReference.cache
-C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.csproj.CoreCompileInputs.cache
-C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.AssemblyInfoInputs.cache
-C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.AssemblyInfo.cs
-C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.dll
-C:\Users\Radotooo\Desktop\softuni\C#OOP\01. Database_Skeleton\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.pdb
