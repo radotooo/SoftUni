@@ -1,0 +1,10 @@
+C:\Users\Radotooo\Desktop\softuni\C#OOP\02. CSharp-OOP-Inheritance-Skeleton\Zoo\bin\Debug\netcoreapp2.1\Zoo.deps.json
+C:\Users\Radotooo\Desktop\softuni\C#OOP\02. CSharp-OOP-Inheritance-Skeleton\Zoo\bin\Debug\netcoreapp2.1\Zoo.runtimeconfig.json
+C:\Users\Radotooo\Desktop\softuni\C#OOP\02. CSharp-OOP-Inheritance-Skeleton\Zoo\bin\Debug\netcoreapp2.1\Zoo.runtimeconfig.dev.json
+C:\Users\Radotooo\Desktop\softuni\C#OOP\02. CSharp-OOP-Inheritance-Skeleton\Zoo\bin\Debug\netcoreapp2.1\Zoo.dll
+C:\Users\Radotooo\Desktop\softuni\C#OOP\02. CSharp-OOP-Inheritance-Skeleton\Zoo\bin\Debug\netcoreapp2.1\Zoo.pdb
+C:\Users\Radotooo\Desktop\softuni\C#OOP\02. CSharp-OOP-Inheritance-Skeleton\Zoo\obj\Debug\netcoreapp2.1\Zoo.csproj.CoreCompileInputs.cache
+C:\Users\Radotooo\Desktop\softuni\C#OOP\02. CSharp-OOP-Inheritance-Skeleton\Zoo\obj\Debug\netcoreapp2.1\Zoo.AssemblyInfoInputs.cache
+C:\Users\Radotooo\Desktop\softuni\C#OOP\02. CSharp-OOP-Inheritance-Skeleton\Zoo\obj\Debug\netcoreapp2.1\Zoo.AssemblyInfo.cs
+C:\Users\Radotooo\Desktop\softuni\C#OOP\02. CSharp-OOP-Inheritance-Skeleton\Zoo\obj\Debug\netcoreapp2.1\Zoo.dll
+C:\Users\Radotooo\Desktop\softuni\C#OOP\02. CSharp-OOP-Inheritance-Skeleton\Zoo\obj\Debug\netcoreapp2.1\Zoo.pdb
