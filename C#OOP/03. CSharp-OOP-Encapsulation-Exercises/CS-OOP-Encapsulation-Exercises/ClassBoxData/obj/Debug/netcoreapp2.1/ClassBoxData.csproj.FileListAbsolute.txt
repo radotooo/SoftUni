@@ -1,0 +1,10 @@
+C:\Users\Radotooo\source\repos\C#OOP\03. CSharp-OOP-Encapsulation-Exercises\CS-OOP-Encapsulation-Exercises\ClassBoxData\bin\Debug\netcoreapp2.1\ClassBoxData.deps.json
+C:\Users\Radotooo\source\repos\C#OOP\03. CSharp-OOP-Encapsulation-Exercises\CS-OOP-Encapsulation-Exercises\ClassBoxData\bin\Debug\netcoreapp2.1\ClassBoxData.runtimeconfig.json
+C:\Users\Radotooo\source\repos\C#OOP\03. CSharp-OOP-Encapsulation-Exercises\CS-OOP-Encapsulation-Exercises\ClassBoxData\bin\Debug\netcoreapp2.1\ClassBoxData.runtimeconfig.dev.json
+C:\Users\Radotooo\source\repos\C#OOP\03. CSharp-OOP-Encapsulation-Exercises\CS-OOP-Encapsulation-Exercises\ClassBoxData\bin\Debug\netcoreapp2.1\ClassBoxData.dll
+C:\Users\Radotooo\source\repos\C#OOP\03. CSharp-OOP-Encapsulation-Exercises\CS-OOP-Encapsulation-Exercises\ClassBoxData\bin\Debug\netcoreapp2.1\ClassBoxData.pdb
+C:\Users\Radotooo\source\repos\C#OOP\03. CSharp-OOP-Encapsulation-Exercises\CS-OOP-Encapsulation-Exercises\ClassBoxData\obj\Debug\netcoreapp2.1\ClassBoxData.csproj.CoreCompileInputs.cache
+C:\Users\Radotooo\source\repos\C#OOP\03. CSharp-OOP-Encapsulation-Exercises\CS-OOP-Encapsulation-Exercises\ClassBoxData\obj\Debug\netcoreapp2.1\ClassBoxData.AssemblyInfoInputs.cache
+C:\Users\Radotooo\source\repos\C#OOP\03. CSharp-OOP-Encapsulation-Exercises\CS-OOP-Encapsulation-Exercises\ClassBoxData\obj\Debug\netcoreapp2.1\ClassBoxData.AssemblyInfo.cs
+C:\Users\Radotooo\source\repos\C#OOP\03. CSharp-OOP-Encapsulation-Exercises\CS-OOP-Encapsulation-Exercises\ClassBoxData\obj\Debug\netcoreapp2.1\ClassBoxData.dll
+C:\Users\Radotooo\source\repos\C#OOP\03. CSharp-OOP-Encapsulation-Exercises\CS-OOP-Encapsulation-Exercises\ClassBoxData\obj\Debug\netcoreapp2.1\ClassBoxData.pdb

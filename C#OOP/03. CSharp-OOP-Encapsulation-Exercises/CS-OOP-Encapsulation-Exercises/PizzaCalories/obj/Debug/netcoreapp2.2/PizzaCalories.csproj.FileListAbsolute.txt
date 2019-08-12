@@ -1,0 +1,11 @@
+C:\Users\Radotooo\source\repos\C#OOP\03. CSharp-OOP-Encapsulation-Exercises\CS-OOP-Encapsulation-Exercises\PizzaCalories\bin\Debug\netcoreapp2.2\PizzaCalories.deps.json
+C:\Users\Radotooo\source\repos\C#OOP\03. CSharp-OOP-Encapsulation-Exercises\CS-OOP-Encapsulation-Exercises\PizzaCalories\bin\Debug\netcoreapp2.2\PizzaCalories.runtimeconfig.json
+C:\Users\Radotooo\source\repos\C#OOP\03. CSharp-OOP-Encapsulation-Exercises\CS-OOP-Encapsulation-Exercises\PizzaCalories\bin\Debug\netcoreapp2.2\PizzaCalories.runtimeconfig.dev.json
+C:\Users\Radotooo\source\repos\C#OOP\03. CSharp-OOP-Encapsulation-Exercises\CS-OOP-Encapsulation-Exercises\PizzaCalories\bin\Debug\netcoreapp2.2\PizzaCalories.dll
+C:\Users\Radotooo\source\repos\C#OOP\03. CSharp-OOP-Encapsulation-Exercises\CS-OOP-Encapsulation-Exercises\PizzaCalories\bin\Debug\netcoreapp2.2\PizzaCalories.pdb
+C:\Users\Radotooo\source\repos\C#OOP\03. CSharp-OOP-Encapsulation-Exercises\CS-OOP-Encapsulation-Exercises\PizzaCalories\obj\Debug\netcoreapp2.2\PizzaCalories.csprojAssemblyReference.cache
+C:\Users\Radotooo\source\repos\C#OOP\03. CSharp-OOP-Encapsulation-Exercises\CS-OOP-Encapsulation-Exercises\PizzaCalories\obj\Debug\netcoreapp2.2\PizzaCalories.csproj.CoreCompileInputs.cache
+C:\Users\Radotooo\source\repos\C#OOP\03. CSharp-OOP-Encapsulation-Exercises\CS-OOP-Encapsulation-Exercises\PizzaCalories\obj\Debug\netcoreapp2.2\PizzaCalories.AssemblyInfoInputs.cache
+C:\Users\Radotooo\source\repos\C#OOP\03. CSharp-OOP-Encapsulation-Exercises\CS-OOP-Encapsulation-Exercises\PizzaCalories\obj\Debug\netcoreapp2.2\PizzaCalories.AssemblyInfo.cs
+C:\Users\Radotooo\source\repos\C#OOP\03. CSharp-OOP-Encapsulation-Exercises\CS-OOP-Encapsulation-Exercises\PizzaCalories\obj\Debug\netcoreapp2.2\PizzaCalories.dll
+C:\Users\Radotooo\source\repos\C#OOP\03. CSharp-OOP-Encapsulation-Exercises\CS-OOP-Encapsulation-Exercises\PizzaCalories\obj\Debug\netcoreapp2.2\PizzaCalories.pdb
