@@ -1,0 +1,11 @@
+C:\Users\Radotooo\source\repos\C#OOP\04. CSharp-OOP-Interfaces-and-Abstraction-Lab\Interfaces-and-Abstraction-Lab\Interfaces-and-Abstraction-Lab\bin\Debug\netcoreapp2.2\Shapes.deps.json
+C:\Users\Radotooo\source\repos\C#OOP\04. CSharp-OOP-Interfaces-and-Abstraction-Lab\Interfaces-and-Abstraction-Lab\Interfaces-and-Abstraction-Lab\bin\Debug\netcoreapp2.2\Shapes.runtimeconfig.json
+C:\Users\Radotooo\source\repos\C#OOP\04. CSharp-OOP-Interfaces-and-Abstraction-Lab\Interfaces-and-Abstraction-Lab\Interfaces-and-Abstraction-Lab\bin\Debug\netcoreapp2.2\Shapes.runtimeconfig.dev.json
+C:\Users\Radotooo\source\repos\C#OOP\04. CSharp-OOP-Interfaces-and-Abstraction-Lab\Interfaces-and-Abstraction-Lab\Interfaces-and-Abstraction-Lab\bin\Debug\netcoreapp2.2\Shapes.dll
+C:\Users\Radotooo\source\repos\C#OOP\04. CSharp-OOP-Interfaces-and-Abstraction-Lab\Interfaces-and-Abstraction-Lab\Interfaces-and-Abstraction-Lab\bin\Debug\netcoreapp2.2\Shapes.pdb
+C:\Users\Radotooo\source\repos\C#OOP\04. CSharp-OOP-Interfaces-and-Abstraction-Lab\Interfaces-and-Abstraction-Lab\Interfaces-and-Abstraction-Lab\obj\Debug\netcoreapp2.2\Shapes.csprojAssemblyReference.cache
+C:\Users\Radotooo\source\repos\C#OOP\04. CSharp-OOP-Interfaces-and-Abstraction-Lab\Interfaces-and-Abstraction-Lab\Interfaces-and-Abstraction-Lab\obj\Debug\netcoreapp2.2\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\Radotooo\source\repos\C#OOP\04. CSharp-OOP-Interfaces-and-Abstraction-Lab\Interfaces-and-Abstraction-Lab\Interfaces-and-Abstraction-Lab\obj\Debug\netcoreapp2.2\Shapes.AssemblyInfoInputs.cache
+C:\Users\Radotooo\source\repos\C#OOP\04. CSharp-OOP-Interfaces-and-Abstraction-Lab\Interfaces-and-Abstraction-Lab\Interfaces-and-Abstraction-Lab\obj\Debug\netcoreapp2.2\Shapes.AssemblyInfo.cs
+C:\Users\Radotooo\source\repos\C#OOP\04. CSharp-OOP-Interfaces-and-Abstraction-Lab\Interfaces-and-Abstraction-Lab\Interfaces-and-Abstraction-Lab\obj\Debug\netcoreapp2.2\Shapes.dll
+C:\Users\Radotooo\source\repos\C#OOP\04. CSharp-OOP-Interfaces-and-Abstraction-Lab\Interfaces-and-Abstraction-Lab\Interfaces-and-Abstraction-Lab\obj\Debug\netcoreapp2.2\Shapes.pdb

@@ -1,0 +1,11 @@
+C:\Users\Radotooo\source\repos\C#OOP\04. CSharp-OOP-Interfaces-And-Abstraction-Exercises\Ifaces-And-Abstract-Exercises\PersonInfo\bin\Debug\netcoreapp2.1\PersonInfo.deps.json
+C:\Users\Radotooo\source\repos\C#OOP\04. CSharp-OOP-Interfaces-And-Abstraction-Exercises\Ifaces-And-Abstract-Exercises\PersonInfo\bin\Debug\netcoreapp2.1\PersonInfo.runtimeconfig.json
+C:\Users\Radotooo\source\repos\C#OOP\04. CSharp-OOP-Interfaces-And-Abstraction-Exercises\Ifaces-And-Abstract-Exercises\PersonInfo\bin\Debug\netcoreapp2.1\PersonInfo.runtimeconfig.dev.json
+C:\Users\Radotooo\source\repos\C#OOP\04. CSharp-OOP-Interfaces-And-Abstraction-Exercises\Ifaces-And-Abstract-Exercises\PersonInfo\bin\Debug\netcoreapp2.1\PersonInfo.dll
+C:\Users\Radotooo\source\repos\C#OOP\04. CSharp-OOP-Interfaces-And-Abstraction-Exercises\Ifaces-And-Abstract-Exercises\PersonInfo\bin\Debug\netcoreapp2.1\PersonInfo.pdb
+C:\Users\Radotooo\source\repos\C#OOP\04. CSharp-OOP-Interfaces-And-Abstraction-Exercises\Ifaces-And-Abstract-Exercises\PersonInfo\obj\Debug\netcoreapp2.1\PersonInfo.csproj.CoreCompileInputs.cache
+C:\Users\Radotooo\source\repos\C#OOP\04. CSharp-OOP-Interfaces-And-Abstraction-Exercises\Ifaces-And-Abstract-Exercises\PersonInfo\obj\Debug\netcoreapp2.1\PersonInfo.AssemblyInfoInputs.cache
+C:\Users\Radotooo\source\repos\C#OOP\04. CSharp-OOP-Interfaces-And-Abstraction-Exercises\Ifaces-And-Abstract-Exercises\PersonInfo\obj\Debug\netcoreapp2.1\PersonInfo.AssemblyInfo.cs
+C:\Users\Radotooo\source\repos\C#OOP\04. CSharp-OOP-Interfaces-And-Abstraction-Exercises\Ifaces-And-Abstract-Exercises\PersonInfo\obj\Debug\netcoreapp2.1\PersonInfo.dll
+C:\Users\Radotooo\source\repos\C#OOP\04. CSharp-OOP-Interfaces-And-Abstraction-Exercises\Ifaces-And-Abstract-Exercises\PersonInfo\obj\Debug\netcoreapp2.1\PersonInfo.pdb
+C:\Users\Radotooo\source\repos\C#OOP\04. CSharp-OOP-Interfaces-And-Abstraction-Exercises\Ifaces-And-Abstract-Exercises\PersonInfo\obj\Debug\netcoreapp2.1\PersonInfo.csprojAssemblyReference.cache

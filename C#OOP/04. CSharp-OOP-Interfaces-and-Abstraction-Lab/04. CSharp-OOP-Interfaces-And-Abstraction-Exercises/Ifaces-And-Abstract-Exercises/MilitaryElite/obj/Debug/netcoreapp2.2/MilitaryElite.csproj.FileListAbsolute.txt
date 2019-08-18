@@ -1,0 +1,11 @@
+C:\Users\Radotooo\source\repos\C#OOP\04. CSharp-OOP-Interfaces-And-Abstraction-Exercises\Ifaces-And-Abstract-Exercises\MilitaryElite\bin\Debug\netcoreapp2.2\MilitaryElite.deps.json
+C:\Users\Radotooo\source\repos\C#OOP\04. CSharp-OOP-Interfaces-And-Abstraction-Exercises\Ifaces-And-Abstract-Exercises\MilitaryElite\bin\Debug\netcoreapp2.2\MilitaryElite.runtimeconfig.json
+C:\Users\Radotooo\source\repos\C#OOP\04. CSharp-OOP-Interfaces-And-Abstraction-Exercises\Ifaces-And-Abstract-Exercises\MilitaryElite\bin\Debug\netcoreapp2.2\MilitaryElite.runtimeconfig.dev.json
+C:\Users\Radotooo\source\repos\C#OOP\04. CSharp-OOP-Interfaces-And-Abstraction-Exercises\Ifaces-And-Abstract-Exercises\MilitaryElite\bin\Debug\netcoreapp2.2\MilitaryElite.dll
+C:\Users\Radotooo\source\repos\C#OOP\04. CSharp-OOP-Interfaces-And-Abstraction-Exercises\Ifaces-And-Abstract-Exercises\MilitaryElite\bin\Debug\netcoreapp2.2\MilitaryElite.pdb
+C:\Users\Radotooo\source\repos\C#OOP\04. CSharp-OOP-Interfaces-And-Abstraction-Exercises\Ifaces-And-Abstract-Exercises\MilitaryElite\obj\Debug\netcoreapp2.2\MilitaryElite.csprojAssemblyReference.cache
+C:\Users\Radotooo\source\repos\C#OOP\04. CSharp-OOP-Interfaces-And-Abstraction-Exercises\Ifaces-And-Abstract-Exercises\MilitaryElite\obj\Debug\netcoreapp2.2\MilitaryElite.csproj.CoreCompileInputs.cache
+C:\Users\Radotooo\source\repos\C#OOP\04. CSharp-OOP-Interfaces-And-Abstraction-Exercises\Ifaces-And-Abstract-Exercises\MilitaryElite\obj\Debug\netcoreapp2.2\MilitaryElite.AssemblyInfoInputs.cache
+C:\Users\Radotooo\source\repos\C#OOP\04. CSharp-OOP-Interfaces-And-Abstraction-Exercises\Ifaces-And-Abstract-Exercises\MilitaryElite\obj\Debug\netcoreapp2.2\MilitaryElite.AssemblyInfo.cs
+C:\Users\Radotooo\source\repos\C#OOP\04. CSharp-OOP-Interfaces-And-Abstraction-Exercises\Ifaces-And-Abstract-Exercises\MilitaryElite\obj\Debug\netcoreapp2.2\MilitaryElite.dll
+C:\Users\Radotooo\source\repos\C#OOP\04. CSharp-OOP-Interfaces-And-Abstraction-Exercises\Ifaces-And-Abstract-Exercises\MilitaryElite\obj\Debug\netcoreapp2.2\MilitaryElite.pdb

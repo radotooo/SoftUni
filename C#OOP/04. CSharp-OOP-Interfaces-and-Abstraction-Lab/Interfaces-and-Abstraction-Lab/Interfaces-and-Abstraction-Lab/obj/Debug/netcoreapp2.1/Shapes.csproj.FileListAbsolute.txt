@@ -1,0 +1,10 @@
+C:\Users\Radotooo\source\repos\C#OOP\04. CSharp-OOP-Interfaces-and-Abstraction-Lab\Interfaces-and-Abstraction-Lab\Interfaces-and-Abstraction-Lab\bin\Debug\netcoreapp2.1\Shapes.deps.json
+C:\Users\Radotooo\source\repos\C#OOP\04. CSharp-OOP-Interfaces-and-Abstraction-Lab\Interfaces-and-Abstraction-Lab\Interfaces-and-Abstraction-Lab\bin\Debug\netcoreapp2.1\Shapes.runtimeconfig.json
+C:\Users\Radotooo\source\repos\C#OOP\04. CSharp-OOP-Interfaces-and-Abstraction-Lab\Interfaces-and-Abstraction-Lab\Interfaces-and-Abstraction-Lab\bin\Debug\netcoreapp2.1\Shapes.runtimeconfig.dev.json
+C:\Users\Radotooo\source\repos\C#OOP\04. CSharp-OOP-Interfaces-and-Abstraction-Lab\Interfaces-and-Abstraction-Lab\Interfaces-and-Abstraction-Lab\bin\Debug\netcoreapp2.1\Shapes.dll
+C:\Users\Radotooo\source\repos\C#OOP\04. CSharp-OOP-Interfaces-and-Abstraction-Lab\Interfaces-and-Abstraction-Lab\Interfaces-and-Abstraction-Lab\bin\Debug\netcoreapp2.1\Shapes.pdb
+C:\Users\Radotooo\source\repos\C#OOP\04. CSharp-OOP-Interfaces-and-Abstraction-Lab\Interfaces-and-Abstraction-Lab\Interfaces-and-Abstraction-Lab\obj\Debug\netcoreapp2.1\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\Radotooo\source\repos\C#OOP\04. CSharp-OOP-Interfaces-and-Abstraction-Lab\Interfaces-and-Abstraction-Lab\Interfaces-and-Abstraction-Lab\obj\Debug\netcoreapp2.1\Shapes.AssemblyInfoInputs.cache
+C:\Users\Radotooo\source\repos\C#OOP\04. CSharp-OOP-Interfaces-and-Abstraction-Lab\Interfaces-and-Abstraction-Lab\Interfaces-and-Abstraction-Lab\obj\Debug\netcoreapp2.1\Shapes.AssemblyInfo.cs
+C:\Users\Radotooo\source\repos\C#OOP\04. CSharp-OOP-Interfaces-and-Abstraction-Lab\Interfaces-and-Abstraction-Lab\Interfaces-and-Abstraction-Lab\obj\Debug\netcoreapp2.1\Shapes.dll
+C:\Users\Radotooo\source\repos\C#OOP\04. CSharp-OOP-Interfaces-and-Abstraction-Lab\Interfaces-and-Abstraction-Lab\Interfaces-and-Abstraction-Lab\obj\Debug\netcoreapp2.1\Shapes.pdb

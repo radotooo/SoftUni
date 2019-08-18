@@ -1,0 +1,11 @@
+C:\Users\Radotooo\source\repos\C#OOP\04. CSharp-OOP-Interfaces-And-Abstraction-Exercises\Ifaces-And-Abstract-Exercises\BorderControl\bin\Debug\netcoreapp2.1\BorderControl.deps.json
+C:\Users\Radotooo\source\repos\C#OOP\04. CSharp-OOP-Interfaces-And-Abstraction-Exercises\Ifaces-And-Abstract-Exercises\BorderControl\bin\Debug\netcoreapp2.1\BorderControl.runtimeconfig.json
+C:\Users\Radotooo\source\repos\C#OOP\04. CSharp-OOP-Interfaces-And-Abstraction-Exercises\Ifaces-And-Abstract-Exercises\BorderControl\bin\Debug\netcoreapp2.1\BorderControl.runtimeconfig.dev.json
+C:\Users\Radotooo\source\repos\C#OOP\04. CSharp-OOP-Interfaces-And-Abstraction-Exercises\Ifaces-And-Abstract-Exercises\BorderControl\bin\Debug\netcoreapp2.1\BorderControl.dll
+C:\Users\Radotooo\source\repos\C#OOP\04. CSharp-OOP-Interfaces-And-Abstraction-Exercises\Ifaces-And-Abstract-Exercises\BorderControl\bin\Debug\netcoreapp2.1\BorderControl.pdb
+C:\Users\Radotooo\source\repos\C#OOP\04. CSharp-OOP-Interfaces-And-Abstraction-Exercises\Ifaces-And-Abstract-Exercises\BorderControl\obj\Debug\netcoreapp2.1\BorderControl.csproj.CoreCompileInputs.cache
+C:\Users\Radotooo\source\repos\C#OOP\04. CSharp-OOP-Interfaces-And-Abstraction-Exercises\Ifaces-And-Abstract-Exercises\BorderControl\obj\Debug\netcoreapp2.1\BorderControl.AssemblyInfoInputs.cache
+C:\Users\Radotooo\source\repos\C#OOP\04. CSharp-OOP-Interfaces-And-Abstraction-Exercises\Ifaces-And-Abstract-Exercises\BorderControl\obj\Debug\netcoreapp2.1\BorderControl.AssemblyInfo.cs
+C:\Users\Radotooo\source\repos\C#OOP\04. CSharp-OOP-Interfaces-And-Abstraction-Exercises\Ifaces-And-Abstract-Exercises\BorderControl\obj\Debug\netcoreapp2.1\BorderControl.dll
+C:\Users\Radotooo\source\repos\C#OOP\04. CSharp-OOP-Interfaces-And-Abstraction-Exercises\Ifaces-And-Abstract-Exercises\BorderControl\obj\Debug\netcoreapp2.1\BorderControl.pdb
+C:\Users\Radotooo\source\repos\C#OOP\04. CSharp-OOP-Interfaces-And-Abstraction-Exercises\Ifaces-And-Abstract-Exercises\BorderControl\obj\Debug\netcoreapp2.1\BorderControl.csprojAssemblyReference.cache
