@@ -1,0 +1,11 @@
+C:\Users\Radotooo\source\repos\C#OOP\05. CSharp-OOP-Polymorphism-Exercises\Polymorphism-Exercises\Vehicles\bin\Debug\netcoreapp2.2\Vehicles.deps.json
+C:\Users\Radotooo\source\repos\C#OOP\05. CSharp-OOP-Polymorphism-Exercises\Polymorphism-Exercises\Vehicles\bin\Debug\netcoreapp2.2\Vehicles.runtimeconfig.json
+C:\Users\Radotooo\source\repos\C#OOP\05. CSharp-OOP-Polymorphism-Exercises\Polymorphism-Exercises\Vehicles\bin\Debug\netcoreapp2.2\Vehicles.runtimeconfig.dev.json
+C:\Users\Radotooo\source\repos\C#OOP\05. CSharp-OOP-Polymorphism-Exercises\Polymorphism-Exercises\Vehicles\bin\Debug\netcoreapp2.2\Vehicles.dll
+C:\Users\Radotooo\source\repos\C#OOP\05. CSharp-OOP-Polymorphism-Exercises\Polymorphism-Exercises\Vehicles\bin\Debug\netcoreapp2.2\Vehicles.pdb
+C:\Users\Radotooo\source\repos\C#OOP\05. CSharp-OOP-Polymorphism-Exercises\Polymorphism-Exercises\Vehicles\obj\Debug\netcoreapp2.2\Vehicles.csprojAssemblyReference.cache
+C:\Users\Radotooo\source\repos\C#OOP\05. CSharp-OOP-Polymorphism-Exercises\Polymorphism-Exercises\Vehicles\obj\Debug\netcoreapp2.2\Vehicles.csproj.CoreCompileInputs.cache
+C:\Users\Radotooo\source\repos\C#OOP\05. CSharp-OOP-Polymorphism-Exercises\Polymorphism-Exercises\Vehicles\obj\Debug\netcoreapp2.2\Vehicles.AssemblyInfoInputs.cache
+C:\Users\Radotooo\source\repos\C#OOP\05. CSharp-OOP-Polymorphism-Exercises\Polymorphism-Exercises\Vehicles\obj\Debug\netcoreapp2.2\Vehicles.AssemblyInfo.cs
+C:\Users\Radotooo\source\repos\C#OOP\05. CSharp-OOP-Polymorphism-Exercises\Polymorphism-Exercises\Vehicles\obj\Debug\netcoreapp2.2\Vehicles.dll
+C:\Users\Radotooo\source\repos\C#OOP\05. CSharp-OOP-Polymorphism-Exercises\Polymorphism-Exercises\Vehicles\obj\Debug\netcoreapp2.2\Vehicles.pdb

@@ -1,0 +1,11 @@
+C:\Users\Radotooo\source\repos\C#OOP\05. CSharp-OOP-Polymorphism-Lab\Polymorphism-Lab\Operations\bin\Debug\netcoreapp2.2\Operations.deps.json
+C:\Users\Radotooo\source\repos\C#OOP\05. CSharp-OOP-Polymorphism-Lab\Polymorphism-Lab\Operations\bin\Debug\netcoreapp2.2\Operations.runtimeconfig.json
+C:\Users\Radotooo\source\repos\C#OOP\05. CSharp-OOP-Polymorphism-Lab\Polymorphism-Lab\Operations\bin\Debug\netcoreapp2.2\Operations.runtimeconfig.dev.json
+C:\Users\Radotooo\source\repos\C#OOP\05. CSharp-OOP-Polymorphism-Lab\Polymorphism-Lab\Operations\bin\Debug\netcoreapp2.2\Operations.dll
+C:\Users\Radotooo\source\repos\C#OOP\05. CSharp-OOP-Polymorphism-Lab\Polymorphism-Lab\Operations\bin\Debug\netcoreapp2.2\Operations.pdb
+C:\Users\Radotooo\source\repos\C#OOP\05. CSharp-OOP-Polymorphism-Lab\Polymorphism-Lab\Operations\obj\Debug\netcoreapp2.2\Operations.csprojAssemblyReference.cache
+C:\Users\Radotooo\source\repos\C#OOP\05. CSharp-OOP-Polymorphism-Lab\Polymorphism-Lab\Operations\obj\Debug\netcoreapp2.2\Operations.csproj.CoreCompileInputs.cache
+C:\Users\Radotooo\source\repos\C#OOP\05. CSharp-OOP-Polymorphism-Lab\Polymorphism-Lab\Operations\obj\Debug\netcoreapp2.2\Operations.AssemblyInfoInputs.cache
+C:\Users\Radotooo\source\repos\C#OOP\05. CSharp-OOP-Polymorphism-Lab\Polymorphism-Lab\Operations\obj\Debug\netcoreapp2.2\Operations.AssemblyInfo.cs
+C:\Users\Radotooo\source\repos\C#OOP\05. CSharp-OOP-Polymorphism-Lab\Polymorphism-Lab\Operations\obj\Debug\netcoreapp2.2\Operations.dll
+C:\Users\Radotooo\source\repos\C#OOP\05. CSharp-OOP-Polymorphism-Lab\Polymorphism-Lab\Operations\obj\Debug\netcoreapp2.2\Operations.pdb

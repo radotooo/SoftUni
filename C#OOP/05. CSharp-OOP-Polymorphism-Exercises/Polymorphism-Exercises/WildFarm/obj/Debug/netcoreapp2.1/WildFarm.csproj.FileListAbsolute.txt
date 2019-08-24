@@ -1,0 +1,11 @@
+C:\Users\Radotooo\source\repos\C#OOP\05. CSharp-OOP-Polymorphism-Exercises\Polymorphism-Exercises\WildFarm\bin\Debug\netcoreapp2.1\WildFarm.deps.json
+C:\Users\Radotooo\source\repos\C#OOP\05. CSharp-OOP-Polymorphism-Exercises\Polymorphism-Exercises\WildFarm\bin\Debug\netcoreapp2.1\WildFarm.runtimeconfig.json
+C:\Users\Radotooo\source\repos\C#OOP\05. CSharp-OOP-Polymorphism-Exercises\Polymorphism-Exercises\WildFarm\bin\Debug\netcoreapp2.1\WildFarm.runtimeconfig.dev.json
+C:\Users\Radotooo\source\repos\C#OOP\05. CSharp-OOP-Polymorphism-Exercises\Polymorphism-Exercises\WildFarm\bin\Debug\netcoreapp2.1\WildFarm.dll
+C:\Users\Radotooo\source\repos\C#OOP\05. CSharp-OOP-Polymorphism-Exercises\Polymorphism-Exercises\WildFarm\bin\Debug\netcoreapp2.1\WildFarm.pdb
+C:\Users\Radotooo\source\repos\C#OOP\05. CSharp-OOP-Polymorphism-Exercises\Polymorphism-Exercises\WildFarm\obj\Debug\netcoreapp2.1\WildFarm.csprojAssemblyReference.cache
+C:\Users\Radotooo\source\repos\C#OOP\05. CSharp-OOP-Polymorphism-Exercises\Polymorphism-Exercises\WildFarm\obj\Debug\netcoreapp2.1\WildFarm.csproj.CoreCompileInputs.cache
+C:\Users\Radotooo\source\repos\C#OOP\05. CSharp-OOP-Polymorphism-Exercises\Polymorphism-Exercises\WildFarm\obj\Debug\netcoreapp2.1\WildFarm.AssemblyInfoInputs.cache
+C:\Users\Radotooo\source\repos\C#OOP\05. CSharp-OOP-Polymorphism-Exercises\Polymorphism-Exercises\WildFarm\obj\Debug\netcoreapp2.1\WildFarm.AssemblyInfo.cs
+C:\Users\Radotooo\source\repos\C#OOP\05. CSharp-OOP-Polymorphism-Exercises\Polymorphism-Exercises\WildFarm\obj\Debug\netcoreapp2.1\WildFarm.dll
+C:\Users\Radotooo\source\repos\C#OOP\05. CSharp-OOP-Polymorphism-Exercises\Polymorphism-Exercises\WildFarm\obj\Debug\netcoreapp2.1\WildFarm.pdb

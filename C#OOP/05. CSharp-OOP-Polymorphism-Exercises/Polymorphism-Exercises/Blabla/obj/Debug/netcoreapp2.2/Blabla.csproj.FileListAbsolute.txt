@@ -1,0 +1,11 @@
+C:\Users\Radotooo\source\repos\C#OOP\05. CSharp-OOP-Polymorphism-Exercises\Polymorphism-Exercises\Blabla\obj\Debug\netcoreapp2.2\Blabla.csprojAssemblyReference.cache
+C:\Users\Radotooo\source\repos\C#OOP\05. CSharp-OOP-Polymorphism-Exercises\Polymorphism-Exercises\Blabla\obj\Debug\netcoreapp2.2\Blabla.csproj.CoreCompileInputs.cache
+C:\Users\Radotooo\source\repos\C#OOP\05. CSharp-OOP-Polymorphism-Exercises\Polymorphism-Exercises\Blabla\obj\Debug\netcoreapp2.2\Blabla.AssemblyInfoInputs.cache
+C:\Users\Radotooo\source\repos\C#OOP\05. CSharp-OOP-Polymorphism-Exercises\Polymorphism-Exercises\Blabla\obj\Debug\netcoreapp2.2\Blabla.AssemblyInfo.cs
+C:\Users\Radotooo\source\repos\C#OOP\05. CSharp-OOP-Polymorphism-Exercises\Polymorphism-Exercises\Blabla\bin\Debug\netcoreapp2.2\Blabla.deps.json
+C:\Users\Radotooo\source\repos\C#OOP\05. CSharp-OOP-Polymorphism-Exercises\Polymorphism-Exercises\Blabla\bin\Debug\netcoreapp2.2\Blabla.runtimeconfig.json
+C:\Users\Radotooo\source\repos\C#OOP\05. CSharp-OOP-Polymorphism-Exercises\Polymorphism-Exercises\Blabla\bin\Debug\netcoreapp2.2\Blabla.runtimeconfig.dev.json
+C:\Users\Radotooo\source\repos\C#OOP\05. CSharp-OOP-Polymorphism-Exercises\Polymorphism-Exercises\Blabla\bin\Debug\netcoreapp2.2\Blabla.dll
+C:\Users\Radotooo\source\repos\C#OOP\05. CSharp-OOP-Polymorphism-Exercises\Polymorphism-Exercises\Blabla\bin\Debug\netcoreapp2.2\Blabla.pdb
+C:\Users\Radotooo\source\repos\C#OOP\05. CSharp-OOP-Polymorphism-Exercises\Polymorphism-Exercises\Blabla\obj\Debug\netcoreapp2.2\Blabla.dll
+C:\Users\Radotooo\source\repos\C#OOP\05. CSharp-OOP-Polymorphism-Exercises\Polymorphism-Exercises\Blabla\obj\Debug\netcoreapp2.2\Blabla.pdb
