@@ -12,12 +12,16 @@ function createOption(name, value) {
 function calculateResult(selectMenu) {
     let number = document.getElementById("input").value
     let result = document.getElementById("result");
+    if(number === null || result===null ){
+        throw new Error("Element missing!")
+    }
 
-    let selectedOption = selectMenu.options[selectMenu.selectedIndex].value;
 
-    if (selectedOption !== "") {
+    let selectedOptionValue = selectMenu.options[selectMenu.selectedIndex].value;
 
-        assignResult[selectedOption](result, number)
+    if (selectedOptionValue !== "") {
+
+        assignResult[selectedOptionValue](result, number)
     }
 
 }
@@ -47,10 +51,12 @@ function convertDecimalToHexaDecimal(number) {
 function solve() {
 
     let selectMenu = document.getElementById("selectMenuTo")
-
+    let button = document.getElementsByTagName("button")[0];
+    if(selectMenu===null || button === null){
+        throw new Error("Element missing!")
+    }
     selectMenu.appendChild(createOption("Binary", "binary"))
     selectMenu.appendChild(createOption("Hexadecimal", "hexadecimal"))
-    let button = document.getElementsByTagName("button")[0];
 
     button.addEventListener("click", () => calculateResult(selectMenu));
 }
