@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <CodeSnippet Format="1.0.0">
+    <Header>
+      <Title>String Join</Title>
+      <Author>Radotooo</Author>
+      <Description>Making String.Join("",);</Description>
+      <Shortcut>sj</Shortcut>
+    </Header>
+    <Snippet>
+      <Code Language="CSharp">
+        <![CDATA[string.Join("$symbol$",$args$)]]>
+      </Code>
+      <Declarations>
+        <Literal>
+          <ID>symbol</ID>
+          <ToolTip>Choose the symbol you want to join with.</ToolTip>
+          <Default>, </Default>
+        </Literal>
+        <Literal>
+          <ID>args</ID>
+          <ToolTip>Choose the args you want to join with.</ToolTip>
+          <Default>Collection</Default>
+        </Literal>
+      </Declarations>
+    </Snippet>
+  </CodeSnippet>
+</CodeSnippets>

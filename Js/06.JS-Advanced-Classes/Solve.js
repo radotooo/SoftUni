@@ -41,3 +41,6 @@ let a = new classes.Person("dsadsa", "dasda@dsads.com")
 console.log(a.toString());
 console.log(c.toString());
 console.log(a.Hello);
+Array.prototype.dsadas =djkasdjas;
+let bb = [];
+bb.dsadas
