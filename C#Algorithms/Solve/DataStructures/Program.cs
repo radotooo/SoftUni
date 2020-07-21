@@ -3,6 +3,7 @@ using System.Collections.Concurrent;
 using System.Collections.Generic;
 using System.Linq;
 using System.Runtime.InteropServices;
+using System.Security.Cryptography.X509Certificates;
 
 namespace DataStructures
 {
@@ -11,17 +12,46 @@ namespace DataStructures
         static void Main(string[] args)
         {
 
-            var input =  Console.ReadLine().Split().Select(int.Parse).ToArray();
-            var result = new List<int>();
-            var currentList = new List<int>();
-            for (int i = 0; i < input.Length; i++)
-            {
-                for (int h = i; h < input.Length; h++)
-                {
-                   
-                }
-            }
+            
+            //var a = "rado";
+            //var b = "rado";
+            //Console.WriteLine(a.GetHashCode());
+            //Console.WriteLine(b.GetHashCode());
+
+            var list = new ReversedList<int>();
+            var cc = new int[] { 1, 2, 3, 4, 5 };
+            var c = new ReversedList<int>(cc);
+            list.Add(1);
+            list.Add(1);
+            list.Add(1);
+            list.Add(1);
+            list.Add(1);
+
+            Console.WriteLine(string.Join(",", c));
+            Console.WriteLine(c.Count());
+
+            Console.WriteLine(c.Capacity());
+            Console.WriteLine("----");
+            Console.WriteLine(c[0]);
+            Console.WriteLine("----");
+            c.RemoveAt(0);
+            c.RemoveAt(2);
+
+            Console.WriteLine("====after Remove====");
+            Console.WriteLine(c[0]);
+            Console.WriteLine(c[1]);
+            Console.WriteLine(c[2]);
+            Console.WriteLine(c[3]);
+            Console.WriteLine(c[4]);
+            
+
+
+
+
+
+
+            // Console.WriteLine(string.Join(",", listR));
         }
-       
+
     }
 }
