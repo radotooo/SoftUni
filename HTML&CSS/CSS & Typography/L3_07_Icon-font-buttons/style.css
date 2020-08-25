@@ -1,0 +1,20 @@
+@import url(https://use.fontawesome.com/releases/v5.8.2/css/all.css);
+a {
+    color: white;
+    text-decoration:none;
+    
+    padding: 0.4rem;
+    display: inline-block;
+   border-radius:0.3rem;
+ 
+ 
+}
+#clickMe {
+    background-color: green;
+    
+    
+}
+#sendEmail {
+    background-color: orange;
+    
+}
