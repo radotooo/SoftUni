@@ -1,0 +1,48 @@
+/* @import url(typography.css); */
+html{
+    font-family: Helvetica, sans-serif;
+    size: 16px;
+    line-height: 1.5;
+    margin: auto;
+    max-width: 60rem;
+    
+    /* font: 16px/1.5 Helvetica, sans-serif;
+    max-width: 60rem;
+    margin: auto;
+    padding: 2rem ; */
+}
+.site-title{
+    display: inline-block;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 25px;
+    margin: 0.5rem;
+}
+img{
+    margin: 0.5rem;
+    padding:0.5rem;
+    border: 3px solid black;
+}
+
+.head1 > img{
+    float: right;
+    
+}
+.innerText{
+    border-left: solid 3px grey;
+    font-style:italic;
+}
+blockquote{
+    border-left: 3px solid grey;
+    max-width: 50%;
+    font-style: italic;
+    float: right;
+    margin: 0 0;
+    padding: 1rem;
+}
+blockquote > p:nth-child(2){
+    text-align: right;
+}
+.head3 > img{
+    float: left;
+}
