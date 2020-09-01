@@ -1,0 +1,68 @@
+/* 
+
+.calendar {
+    max-width: 80rem;
+    margin: 5rem auto;
+    display: flex;
+    border: 1px black solid;
+
+}
+
+ .item {
+    border: 1px black solid;
+    flex-grow: 1;
+    text-align: center;
+    padding:1rem ;
+}
+
+
+ .item-grow{
+    flex-basis: 100%;
+
+}
+ .week {
+    display: flex;
+    flex-grow: 1;
+    flex-wrap: wrap;
+
+}
+
+ .notes {
+    display: flex; 
+    flex-direction: column;
+
+} */
+
+div{
+    max-width: 65vw;
+
+}
+.container{
+    display: flex;
+   margin: 5rem auto;;
+   text-align: center;
+   background-color: red;
+   
+
+}
+
+.item{
+    border:1px solid black ;
+    flex-grow: 1;
+    padding:3rem;
+}
+.item-grow{
+    flex-basis: 100%;
+}
+
+.week {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.notes{
+    display: flex;
+    
+    flex-direction: column;
+}

@@ -1,0 +1,33 @@
+*{
+    margin:0;
+    padding:0;
+
+
+}
+body{
+
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    height: 100vh;
+    max-width: 50rem;
+    margin:auto ;
+    background-color:rgb(238, 238, 238);
+}
+p{
+    margin: 1rem 0 1rem 0;
+}
+
+header{
+    font-size: 1.5rem;
+    border-bottom: 2px solid black;
+   margin: 0.3rem 0 1rem 0;
+   padding: 0.5rem 0;
+}
+footer{
+    padding-left: 1rem;
+    position: sticky;
+    display: block;
+    color:  rgb(255, 255, 255);
+    background-color: rgb(102, 102, 102);
+}

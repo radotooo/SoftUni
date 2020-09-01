@@ -1,0 +1,30 @@
+
+body{
+    display: flex;
+    max-width: 60rem;
+    margin: auto;
+    background-color:rgb(238,238,238);
+  }
+
+ul{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+   }
+
+li{
+    display: flex;
+    list-style: none;
+        
+    align-items: center;
+   
+    padding: 1rem;
+    margin: 1rem;
+    
+    background-color: white;
+    border: 3px solid black;
+}
+
+img{
+    max-width:200px;
+}
