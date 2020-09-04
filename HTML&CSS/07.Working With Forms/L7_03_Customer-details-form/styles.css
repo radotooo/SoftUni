@@ -1,0 +1,71 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    line-height: 1.2;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.app {
+    background-color: rgb(173, 216, 230);
+    padding: 1em 1.5em;
+    width: 27rem;
+}
+
+legend {
+    text-align: center;
+    font-size: 2em;
+    margin-bottom: 1em;
+}
+
+.fields {
+    display: flex;
+    padding: 0.3em;
+    margin-right: 3rem;
+
+}
+
+input {
+    padding: 0.3em;
+    flex-basis: 55%;
+}
+
+input[type='radio'] {
+    flex-basis: 6%;
+}
+
+select {
+    padding: 0.4em;
+    flex-basis: 58%;
+}
+
+label {
+    padding-right: 1em;
+    flex-basis: 20%;
+}
+
+textarea {
+    flex-basis: 57.5%;
+    margin-bottom: 1rem;
+}
+
+.submit {
+    margin: 1rem;
+    text-align: center;
+}
+
+.submit button {
+    padding: 1em 3.5em;
+    border-radius: 0.5em;
+    border: none;
+    background-color: rgb(35, 68, 101);
+    color: white;
+}

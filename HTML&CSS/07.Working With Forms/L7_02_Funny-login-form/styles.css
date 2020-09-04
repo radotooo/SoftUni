@@ -1,0 +1,112 @@
+@import url('https://use.fontawesome.com/releases/v5.8.2/css/all.css');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+
+}
+*:focus { /*OR .rest:focus*/
+    outline:none;
+}
+
+html {
+    box-sizing: border-box;
+    font-family: Montserrat, sans-serif;
+    color: rgb(85, 85, 85);
+
+    line-height: 1.2;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    width: 100vw;
+    height: 100vh;
+    background-color: #00DBDE;
+    background-image: linear-gradient(30deg, #00DBDE 0%, rgb(125, 110, 238) 50%, #FC00FF 100%);
+}
+
+header {
+        margin-bottom: 1rem;
+    }
+
+header .buttons {
+    display: flex;
+    justify-content: space-between;
+}
+
+header button {
+    padding: 0.5rem;
+    border-radius: 0.3rem;
+    border: hidden;
+    cursor: pointer;
+}
+
+
+header button.facebook {
+    flex-basis: 45%;
+    background-color: rgb(59, 89, 152);
+    border:1px solid transparent;
+    color: white;
+}
+
+header button.google {
+    flex-basis: 45%;
+    border: 1px solid grey;
+    background-color: #fff;
+    color: rgb(85, 85, 85);
+}
+
+header button.facebook:focus,
+header button.google:focus{
+  border-color:black;
+}
+
+header .title {
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+
+label {
+    font-size: 12px;
+}
+.input{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.input > input {
+    flex-basis: 100%;
+    padding: 0.4rem;
+    background-color: rgb(200, 197, 197);
+        border: 1px solid transparent;
+    border-radius: 0.3rem;
+    margin-bottom: 0.8rem;
+}
+
+.submit {
+    border: 1px solid grey;
+    border-radius: 0.3rem;
+    padding: 0.4rem;
+    margin-top: 0.5rem;
+    background-color: rgb(51, 51, 51);
+    color: white;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    min-width: 17rem;
+    padding: 2rem;
+    background-color: rgb(255, 255, 255);
+    border-radius: 0.5rem;
+}
+
+input:hover,
+input:focus {
+    border-color: black;
+}

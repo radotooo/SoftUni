@@ -1,0 +1,68 @@
+*,*:before,*:after{
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+html{
+    box-sizing: border-box;
+    font: 14px/1.5 Verdana, sans-serif;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    flex-basis: 20rem;
+    
+    
+}
+
+fieldset{
+    max-width: 20rem;
+  margin:2rem;
+  padding: 1rem;
+   border-radius: 0.4rem;
+   background-color: rgb(251, 251, 251);
+
+}
+.text{
+    position: relative;
+}
+.icon-user{
+    position: absolute;
+    left:53px;
+    top:93px;
+}
+.password{
+    position: absolute;
+    left:53px;
+   top:155px;
+}
+label{
+    font-weight: bold ;
+}
+legend{
+    border: 1px solid grey;
+    padding: 0.2rem 2rem 0.2rem 0.5rem;
+    
+    border-radius: 0.2rem;
+    background-color: rgb(251, 251, 251);
+    overflow: hidden;
+}
+input{
+    border: 1px solid grey;
+    margin-bottom: 1rem;
+    padding: 0.3rem 0.3rem 0.3rem 1.9rem;
+}
+.button{
+   max-width: 3rem
+}
+.button:hover{
+    cursor: pointer;
+}
+
+form input[type="password"]:hover,
+form input[type="password"]:focus,
+form input[type="text"]:hover, 
+form input[type="text"]:focus {
+    border-color: green;
+    outline: none;
+}
